@@ -1,0 +1,57 @@
+I"<div width="10%" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" align="center">
+    <!-- Menu -->
+    <ol class="carousel-indicators">
+        <li data-target="#carousel" data-slide-to="0" class="active"></li>
+        <li data-target="#carousel" data-slide-to="1"></li>
+    </ol>
+
+    <!-- Items -->
+    <div class="carousel-inner">
+
+        <div class="item">
+            <img class="slider_img" src="http://localhost:4000/images/slider/memoryexp.png" alt="Slide 1" />
+        </div>        
+        <div class="item active">
+            <img class="slider_img" src="http://localhost:4000/images/slider/sapienza.webp" alt="Slide 2" />
+        </div>
+    </div>
+
+  <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+<h1 class="sapienza-text"> News </h1>
+
+<p><b>7. October 2021</b> <br />
+<em>We are happy to share that we have four papers accepted at AIxIA 2021!!! Congratulation to all the students and collaborators! They are: “Exploration-Intensive Distractors: Two Environment Proposals and a Benchmarking” by Jim Martin Catacora Ocaña, Roberto Capobianco and Daniele Nardi; “Detection Accuracy for Evaluating Compositional Explanations of Units” by Sayo M. Makinwa, Biagio La Rosa and Roberto Capobianco; “A Discussion about Explainable Inference on Sequential Data via Memory-Tracking” by Biagio La Rosa, Roberto Capobianco, and Daniele Nardi; and “Tafl-ES: Exploring Evolution Strategies for Asymmetrical Board Games” by Roberto Gallotta and Roberto Capobianco. The link will be available online as soon as possible.</em></p>
+
+<p><b>19. August 2021</b> <br />
+<em>We are happy to announce that our paper “Agent-Based Markov Modeling for Improved COVID-19 Mitigation Policies” has been published in JAIR (Journal of Artificial Intelligence Research). Joint work between Roberto Capobianco,  Varun Raj Kompella, James Ault, Guni Sharon, Stacy Jong, Spencer Fox, Lauren Meyers, Peter Wurman and Peter Stone. In this paper, we study how reinforcement learning and Bayesian inference can be used to optimize mitigation policies that minimize economic impact without overwhelming hospital capacity. For more details, check out the manuscript <a href="https://jair.org/index.php/jair/article/view/12632">here</a>.</em></p>
+
+<p><b>28. June 2021</b> <br />
+<em>Our paper “Learning Transferable Policies for Autonomous Planetary Landing via Deep Reinforcement Learning”, submitted to ascend aiaa 2021 has been accepted! Joint work between Giulia Ciabatti, Shreyansh Daftry and Roberto Capobianco. Link to the paper is coming soon!</em></p>
+
+<p><b>26. April 2021</b> <br />
+<em>Our paper “Autonomous Planetary Landing via Deep Reinforcement Learning and Transfer Learning” has been accepted for publication at CVPR 2021, AI for Space.</em></p>
+
+<p><b>3. March 2021</b> <br />
+<em>Check out the new blog post from Dr. Peter Stone about the Pandemic Simulator on the <a href="https://www.ai.sony/blog/blog-003/">site of Sony AI</a>. It describes the ideas behind our recent papers “Multiagent Epidemiologic Inference through Realtime Contact Tracing” and “Reinforcement Learning for Optimization of COVID-19 Mitigation Policies”!</em></p>
+
+<p><b>1. October 2020</b> <br />
+<em>A porting on PyTorch of our paper “Explainable Inference on Sequential Data via Memory-Tracking” has been officially released <a href="https://github.com/KRLGroup/explainable-inference-on-sequential-data-via-memory-tracking">here</a>.</em></p>
+
+<p><b>29. September 2020</b> <br />
+<em>Welcome to the first PhD student of our group: Biagio La Rosa!</em></p>
+
+<p><b>10. July 2020</b> <br />
+<em>IJCAI-2020 proceedings are out!! You can find our paper <a href="https://www.ijcai.org/Proceedings/2020/0278.pdf">here</a>. The code and the blog post are coming soon!!!</em></p>
+
+<p><b>20. April 2020</b> <br />
+<em>Our paper on “Explainable Inference on Sequential Data via Memory-Tracking” has been accepted at IJCAI-PRICAI 2020 !!!</em></p>
+
+:ET

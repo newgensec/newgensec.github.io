@@ -1,0 +1,81 @@
+{% assign person = include.person %}
+
+{% comment %}
+
+Usage: {% include person-image.html person=person %}
+
+Sizing of the SVG is done in a viewBox, and it's resized later in CSS.
+
+text-decoration hack is for Safari. We don't SVGs to be underlined.
+
+{% endcomment %}
+{% if person.webpage %}
+    <img alt="{{ person.name }}"
+    title="{{ person.name }}"
+    class="icons"
+    src="{ site.url }}{{ site.baseurl }}/images/icons/home.png" />
+
+{% endif %}
+
+{% if person.email %}
+    {% capture email_icon %}
+    <a href="mailto:{{person.email}}">
+        <img alt="{{ person.name }}"
+             title="{{ person.name }}"
+             class="icons"
+             src="{ site.url }}{{ site.baseurl }}/images/icons/email.png" />
+    </a>
+    {% endcapture %}
+    {{ email_icon}}
+{% endif %}
+
+{% if person.github %}
+    {% capture github_icon %}
+    <a href="https://github.com//{{person.github}}">
+        <img alt="{{ person.name }}"
+             title="{{ person.name }}"
+             class="icons"
+             src="{{ site.url }}{{ site.baseurl }}/images/icons/github.png" />
+    </a>
+    {% endcapture %}
+    {{github_icon}}
+{% endif %}
+
+
+{% if person.facebook %}
+    {% capture facebook_icon %}
+        <img alt="{{ person.name }}"
+             title="{{ person.name }}"
+             class="icons"
+             src="{ site.url }}{{ site.baseurl }}/images/icons/facebook.png" />
+    {% endcapture %}
+    {{ facebook_icon}}
+{% endif %}
+
+
+
+{% if person.twitter %}
+    {% capture twitter_icon %}
+    <a href="https://twitter.com/{{person.twitter}}">
+        <img alt="{{ person.name }}"
+             title="{{ person.name }}"
+             class="icons"
+             src="{ site.url }}{{ site.baseurl }}/images/icons/twitter.png" />
+    </a>
+    {% endcapture %}
+    {{ twitter_icon}}
+{% endif %}
+
+{% if person.linkedin %}
+    {% capture linkedin_icon %}
+        <a href="https://www.linkedin.com/in/{{person.linkedin}}">
+            <img alt="{{ person.name }}"
+             title="{{ person.name }}"
+             class="icons"
+             src="{ site.url }}{{ site.baseurl }}/images/icons/linkedin_sapienza.png" />
+        </a>
+    {% endcapture %}
+    {{ linkedin_icon}}
+{% endif %}
+
+

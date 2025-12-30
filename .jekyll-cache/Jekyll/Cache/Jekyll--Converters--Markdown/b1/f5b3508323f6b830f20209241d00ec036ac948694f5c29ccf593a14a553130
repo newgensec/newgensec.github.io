@@ -1,0 +1,375 @@
+I"�E<h1 class="sapienza-text"> Publications</h1>
+
+<h2 class="sapienza-text">In evidence</h2>
+<script type="text/javascript">
+    <!--
+    // Toggle Display of BibTeX
+    function toggleBibtex(articleid) {
+        var bib = document.getElementById('bib_'+articleid);
+        if (bib) {
+            if(bib.className.indexOf('bibtex') != -1) {
+                bib.className.indexOf('noshow') == -1?bib.className = 'bibtex noshow':bib.className = 'bibtex';
+            }
+        } else {
+            return;
+        }
+    }
+-->
+    </script>
+
+<p>(For a full list see <a href="#list">below</a>)</p>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <div class="well">
+      <pubtit>Explainable Inference on Sequential Data via Memory-Tracking</pubtit>
+      <p><img src="http://localhost:4000/images/paperpic/memoryexp.png" class="img-responsive" width="33%" style="float: left" /></p>
+      <p>We propose an approach to build explanations for sequential tasks exploiting the memory reading and writing operations of Memory Augumented Neural Networks.</p>
+      <p><em>Biagio La Rosa, Roberto Capobianco and Daniele Nardi</em></p>
+      <p><strong><a href="https://www.ijcai.org/Proceedings/2020/0278.pdf">Paper</a>  
+  <a href="https://github.com/KRLGroup/explainable-inference-on-sequential-data-via-memory-tracking">Code</a>  
+   <a href="javascript:toggleBibtex('Explainable Inference on Sequential Data via Memory-Tracking')">BibTeX</a>  
+   <a href="http://localhost:4000/explainable_inference">Blog Post</a>
+  </strong></p>
+      <div id="bib_Explainable Inference on Sequential Data via Memory-Tracking" class="bibtex noshow">
+        <pre>
+@inproceedings{LaRosa20,<br /> title     = {Explainable Inference on Sequential Data via Memory-Tracking},<br /> author    = {La Rosa, Biagio and Capobianco, Roberto and Nardi, Daniele},<br /> booktitle = {Proceedings of the Twenty-Ninth International Joint Conference on Artificial Intelligence, {IJCAI-20}},<br /> publisher = {International Joint Conferences on Artificial Intelligence Organization},  <br /> pages     = {2006--2013},<br /> year      = {2020},<br /> month     = {7},<br /> doi       = {10.24963/ijcai.2020/278},<br /> url       = {https://doi.org/10.24963/ijcai.2020/278},<br /> }
+</pre>
+      </div>
+      <p class="text-danger"><strong> </strong></p>
+      <p> </p>
+    </div>
+  </div>
+
+</div>
+
+<p>   </p>
+
+<p><a name="list"></a></p>
+<h3 class="sapienza-text">Full List</h3>
+
+<table class="table">
+<tbody>
+	
+	
+	<tr>
+		<td>
+			<span class="date">
+				
+				<big><strong>2021</strong></big><br />
+				
+				
+			</span>
+		</td>
+		<td>
+			<span class="paper-title">
+				Exploration-Intensive Distractors: Two Environment Proposals and a Benchmarking.
+			</span><br />
+			<span class="authors">
+				Jim Martin Catacora Ocaña, Roberto Capobianco and Daniele Nardi.
+			</span><br />
+			<span class="venuetype">The 20th International Conference of the Italian Association for Artificial Intelligence (AIxIA 2021)</span><span class="venue"></span>. 
+      <br />
+      
+      
+      
+		</td>
+	</tr>
+	
+	<tr>
+		<td>
+			<span class="date">
+				
+				
+			</span>
+		</td>
+		<td>
+			<span class="paper-title">
+				Tafl-ES: Exploring Evolution Strategies for Asymmetrical Board Games.
+			</span><br />
+			<span class="authors">
+				Roberto Gallotta and Roberto Capobianco.
+			</span><br />
+			<span class="venuetype">The 20th International Conference of the Italian Association for Artificial Intelligence (AIxIA 2021)</span><span class="venue"></span>. 
+      <br />
+      
+      
+      
+		</td>
+	</tr>
+	
+	<tr>
+		<td>
+			<span class="date">
+				
+				
+			</span>
+		</td>
+		<td>
+			<span class="paper-title">
+				Detection Accuracy for Evaluating Compositional Explanations of Units.
+			</span><br />
+			<span class="authors">
+				Sayo M. Makinwa, Biagio La Rosa and Roberto Capobianco.
+			</span><br />
+			<span class="venuetype">The 20th International Conference of the Italian Association for Artificial Intelligence (AIxIA 2021)</span><span class="venue"></span>. 
+      <br />
+      
+      
+      
+		</td>
+	</tr>
+	
+	<tr>
+		<td>
+			<span class="date">
+				
+				
+			</span>
+		</td>
+		<td>
+			<span class="paper-title">
+				A Discussion about Explainable Inference on Sequential Data via Memory-Tracking.
+			</span><br />
+			<span class="authors">
+				Biagio La Rosa, Roberto Capobianco and Daniele Nardi.
+			</span><br />
+			<span class="venuetype">The 20th International Conference of the Italian Association for Artificial Intelligence (AIxIA 2021)</span><span class="venue"></span>. 
+      <br />
+      
+      
+      
+		</td>
+	</tr>
+	
+	<tr>
+		<td>
+			<span class="date">
+				
+				
+			</span>
+		</td>
+		<td>
+			<span class="paper-title">
+				Agent-Based Markov Modeling for Improved COVID-19 Mitigation Policies.
+			</span><br />
+			<span class="authors">
+				Roberto Capobianco, Varun Kompella, James Ault, Guni Sharon, Stacy Jong, Spencer Fox, Lauren Meyers, Peter R. Wurman and Peter Stone.
+			</span><br />
+			<span class="venuetype">Journal of Artificial Intelligence Research (JAIR)</span><span class="venue"></span>. 
+      <br />
+      <a href="https://jair.org/index.php/jair/article/view/12632">Paper</a>&nbsp;&nbsp;
+      
+      <a href="javascript:toggleBibtex('Agent-Based Markov Modeling for Improved COVID-19 Mitigation Policieslist')">BibTeX</a>&nbsp;&nbsp;
+      
+      <div id="bib_Agent-Based Markov Modeling for Improved COVID-19 Mitigation Policieslist" class="bibtex noshow">
+        <pre>
+        @inproceedings{capobianco2021covid,<br /> title={Agent-Based {M}arkov Modeling for Improved {COVID}-19 Mitigation Policies},<br /> author={Roberto Capobianco and Varun Kompella and James Ault and Guni Sharon and Stacy Jong and Spencer Fox and Lauren Meyers and Peter R. Wurman and Peter Stone},<br /> month = {August},<br /> year={2021},<br /> pages = {953--992},<br /> Journal = {Journal of Artificial Intelligence Research (JAIR)},<br /> Volume = {71},<br /> Publisher = {Association for the Advancement of Artificial Intelligence}<br /> }
+        </pre>
+      </div>
+      
+		</td>
+	</tr>
+	
+	<tr>
+		<td>
+			<span class="date">
+				
+				
+			</span>
+		</td>
+		<td>
+			<span class="paper-title">
+				Learning Transferable Policies for Autonomous Planetary Landing via Deep Reinforcement Learning.
+			</span><br />
+			<span class="authors">
+				Giulia Ciabatti, Roberto Capobianco, Shreyansh Daftry.
+			</span><br />
+			<span class="venuetype">Ascend, AIAA</span><span class="venue"></span>. 
+      <br />
+      
+      
+      
+		</td>
+	</tr>
+	
+	<tr>
+		<td>
+			<span class="date">
+				
+				
+			</span>
+		</td>
+		<td>
+			<span class="paper-title">
+				Autonomous Planetary Landing via Deep Reinforcement Learning and Transfer Learning.
+			</span><br />
+			<span class="authors">
+				Giulia Ciabatti, Shreyansh Daftry and Roberto Capobianco.
+			</span><br />
+			<span class="venuetype">AI4Space Workshop (CVPR 2021)</span><span class="venue"></span>. 
+      <br />
+      <a href="https://openaccess.thecvf.com/content/CVPR2021W/AI4Space/html/Ciabatti_Autonomous_Planetary_Landing_via_Deep_Reinforcement_Learning_and_Transfer_Learning_CVPRW_2021_paper.html">Paper</a>&nbsp;&nbsp;
+      
+      <a href="javascript:toggleBibtex('Autonomous Planetary Landing via Deep Reinforcement Learning and Transfer Learninglist')">BibTeX</a>&nbsp;&nbsp;
+      
+      <div id="bib_Autonomous Planetary Landing via Deep Reinforcement Learning and Transfer Learninglist" class="bibtex noshow">
+        <pre>
+        @InProceedings{Ciabatti_2021_CVPR,<br /> author = {Ciabatti, Giulia and Daftry, Shreyansh and Capobianco, Roberto},<br /> title = {Autonomous Planetary Landing via Deep Reinforcement Learning and Transfer Learning}, <br /> booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},<br /> month = {June},<br /> year = {2021}, <br /> pages = {2031-2038} }
+        </pre>
+      </div>
+      
+		</td>
+	</tr>
+	
+	<tr>
+		<td>
+			<span class="date">
+				
+				
+			</span>
+		</td>
+		<td>
+			<span class="paper-title">
+				Multiagent Epidemiologic Inference through Realtime Contact Tracing.
+			</span><br />
+			<span class="authors">
+				Guni Sharon, James Ault, Peter Stone, Varun Kompella and Roberto Capobianco.
+			</span><br />
+			<span class="venuetype">Proceedings of the 20th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2021)</span><span class="venue"></span>. 
+      <br />
+      <a href="http://www.ifaamas.org/Proceedings/aamas2021/pdfs/p1182.pdf">Paper</a>&nbsp;&nbsp;
+      
+      <a href="javascript:toggleBibtex('Multiagent Epidemiologic Inference through Realtime Contact Tracinglist')">BibTeX</a>&nbsp;&nbsp;
+      
+      <div id="bib_Multiagent Epidemiologic Inference through Realtime Contact Tracinglist" class="bibtex noshow">
+        <pre>
+        @inproceedings{sharon2021covid,<br /> title={Multiagent Epidemiologic Inference through Realtime Contact Tracing},<br /> author={Sharon, Guni and Ault, James and Stone, Peter and Kompella, Varun and Capobianco, Roberto},<br /> booktitle={Proceedings of the 20th International Conference on Autonomous Agents and MultiAgent Systems (AAMAS 2021)},<br /> location = {London, UK},<br /> month = {May},<br /> year={2021},<br /> organization={International Foundation for Autonomous Agents and Multiagent Systems}<br /> }
+        </pre>
+      </div>
+      
+		</td>
+	</tr>
+	
+	<tr>
+		<td>
+			<span class="date">
+				
+				<big><strong>2020</strong></big><br />
+				
+				
+			</span>
+		</td>
+		<td>
+			<span class="paper-title">
+				LoOP: Iterative learning for optimistic planning on robots.
+			</span><br />
+			<span class="authors">
+				Francesco Riccio, Roberto Capobianco and Daniele Nardi.
+			</span><br />
+			<span class="venuetype">Robotics and Autonomous Systems</span><span class="venue"></span>. 
+      <br />
+      <a href="https://www.sciencedirect.com/science/article/pii/S0921889020305339">Paper</a>&nbsp;&nbsp;
+      
+      <a href="javascript:toggleBibtex('LoOP: Iterative learning for optimistic planning on robotslist')">BibTeX</a>&nbsp;&nbsp;
+      
+      <div id="bib_LoOP: Iterative learning for optimistic planning on robotslist" class="bibtex noshow">
+        <pre>
+        @article{RICCIO2021103693,<br /> title = {LoOP: Iterative learning for optimistic planning on robots},<br /> journal = {Robotics and Autonomous Systems},<br /> abstract = {Efficient robotic behaviors require robustness and adaptation to dynamic changes of the environment, whose characteristics rapidly vary during robot operation. To generate effective robot action policies, planning and learning techniques have shown the most promising results. However, if considered individually, they present different limitations. Planning techniques lack generalization among similar states and require experts to define behavioral routines at different levels of abstraction. Conversely, learning methods usually require a considerable number of training samples and iterations of the algorithm. To overcome these issues, and to efficiently generate robot behaviors, we introduce LoOP, an iterative learning algorithm for optimistic planning that combines state-of-the-art planning and learning techniques to generate action policies. The main contribution of LoOP is the combination of Monte-Carlo Search Planning and Q-learning, which enables focused exploration during policy refinement in different robotic applications. We demonstrate the robustness and flexibility of LoOP in various domains and multiple robotic platforms, by validating the proposed approach with an extensive experimental evaluation.}<br /> volume = {136},<br /> pages = {103693},<br /> year = {2021},<br /> issn = {0921-8890},<br /> doi = {https://doi.org/10.1016/j.robot.2020.103693},<br /> url = {http://www.sciencedirect.com/science/article/pii/S0921889020305339},<br /> author = {Francesco Riccio and Roberto Capobianco and Daniele Nardi},<br /> keywords = {Autonomous planning and learning, Monte-Carlo planning, Q-learning, Deep robot reinforcement learning},<br /> }
+        </pre>
+      </div>
+      
+		</td>
+	</tr>
+	
+	<tr>
+		<td>
+			<span class="date">
+				
+				
+			</span>
+		</td>
+		<td>
+			<span class="paper-title">
+				Reinforcement Learning for Optimization of COVID-19 Mitigation policies.
+			</span><br />
+			<span class="authors">
+				Varun Kompella, Roberto Capobianco, Stacy Jong, Jonathan Browne, Spencer Fox, Lauren Meyers, Peter Wurman and Peter Stone.
+			</span><br />
+			<span class="venuetype">arXiv preprint</span><span class="venue"></span>. 
+      <br />
+      <a href="https://arxiv.org/pdf/2010.10560.pdf">Paper</a>&nbsp;&nbsp;
+      <a href="https://github.com/SonyAI/PandemicSimulator">Code</a>&nbsp;&nbsp;
+      <a href="javascript:toggleBibtex('Reinforcement Learning for Optimization of COVID-19 Mitigation policieslist')">BibTeX</a>&nbsp;&nbsp;
+      
+      <div id="bib_Reinforcement Learning for Optimization of COVID-19 Mitigation policieslist" class="bibtex noshow">
+        <pre>
+        @misc{kompella2020reinforcement,<br /> title={Reinforcement Learning for Optimization of COVID-19 Mitigation policies}, <br /> author={Varun Kompella and Roberto Capobianco and Stacy Jong and Jonathan Browne and Spencer Fox and Lauren Meyers and Peter Wurman and Peter Stone},<br /> year={2020},<br /> eprint={2010.10560},<br /> archivePrefix={arXiv},<br /> primaryClass={cs.LG} }
+        </pre>
+      </div>
+      
+		</td>
+	</tr>
+	
+	<tr>
+		<td>
+			<span class="date">
+				
+				
+			</span>
+		</td>
+		<td>
+			<span class="paper-title">
+				GUESs: Generative modeling of Unknown Environments and Spatial Abstraction for Robots.
+			</span><br />
+			<span class="authors">
+				Francesco Riccio, Roberto Capobianco and Daniele Nardi.
+			</span><br />
+			<span class="venuetype">Proceedings of the 19th International Conference on Autonomous Agents and MultiAgent Systems</span><span class="venue"></span>. 
+      <br />
+      <a href="http://www.ifaamas.org/Proceedings/aamas2020/pdfs/p1978.pdf">Paper</a>&nbsp;&nbsp;
+      
+      <a href="javascript:toggleBibtex('GUESs: Generative modeling of Unknown Environments and Spatial Abstraction for Robotslist')">BibTeX</a>&nbsp;&nbsp;
+      
+      <div id="bib_GUESs: Generative modeling of Unknown Environments and Spatial Abstraction for Robotslist" class="bibtex noshow">
+        <pre>
+        @inproceedings{10.5555/3398761.3399047,<br /> author = {Riccio, Francesco and Capobianco, Roberto and Nardi, Daniele},<br /> title = {GUESs: Generative Modeling of Unknown Environments and Spatial Abstraction for Robots},<br /> year = {2020},<br /> isbn = {9781450375184},<br /> publisher = {International Foundation for Autonomous Agents and Multiagent Systems},<br /> address = {Richland, SC},<br /> abstract = {Representing unknown and missing knowledge about the environment is fundamental to leverage robot behavior and improve its performance in completing a task. However, reconstructing spatial knowledge beyond the sensory horizon of the robot is an extremely challenging task. Existing approaches assume that the environment static and features repetitive patterns (e.g. rectangular rooms) or that it can be all generalized with pre-trained models. Our goal is to remove such assumptions and to introduce a novel methodology that allows the robot to represent unknown spatial knowledge in dynamic and unstructured environments. To this end, we exploit generative learning to (1) learn a distribution of spatial landmarks observed during the robot mission and to (2) generate missing information in real-time. The proposed approach aims at supporting planning and decision-making processes needed for robot behaviors. In this paper, we describe architecture modeling the proposed approach and a first validation on a mobile platform.}, booktitle = {Proceedings of the 19th International Conference on Autonomous Agents and MultiAgent Systems},<br /> pages = {1978–1980},<br /> numpages = {3},<br /> keywords = {generative learning, knowledge representation, robot learning},<br /> location = {Auckland, New Zealand},<br /> series = {AAMAS '20} }
+        </pre>
+      </div>
+      
+		</td>
+	</tr>
+	
+	<tr>
+		<td>
+			<span class="date">
+				
+				
+			</span>
+		</td>
+		<td>
+			<span class="paper-title">
+				Explainable Inference on Sequential Data via Memory-Tracking.
+			</span><br />
+			<span class="authors">
+				Biagio La Rosa, Roberto Capobianco and Daniele Nardi.
+			</span><br />
+			<span class="venuetype">Proceedings of the Twenty-Ninth International Joint Conference on Artificial Intelligence (IJCAI-20)</span><span class="venue"></span>. 
+      <br />
+      <a href="https://www.ijcai.org/Proceedings/2020/0278.pdf">Paper</a>&nbsp;&nbsp;
+      <a href="https://github.com/KRLGroup/explainable-inference-on-sequential-data-via-memory-tracking">Code</a>&nbsp;&nbsp;
+      <a href="javascript:toggleBibtex('Explainable Inference on Sequential Data via Memory-Trackinglist')">BibTeX</a>&nbsp;&nbsp;
+      <a href="http://localhost:4000/explainable_inference">Blog Post</a>
+      <div id="bib_Explainable Inference on Sequential Data via Memory-Trackinglist" class="bibtex noshow">
+        <pre>
+        @inproceedings{LaRosa20,<br /> title     = {Explainable Inference on Sequential Data via Memory-Tracking},<br /> author    = {La Rosa, Biagio and Capobianco, Roberto and Nardi, Daniele},<br /> booktitle = {Proceedings of the Twenty-Ninth International Joint Conference on Artificial Intelligence, {IJCAI-20}},<br /> publisher = {International Joint Conferences on Artificial Intelligence Organization},  <br /> pages     = {2006--2013},<br /> year      = {2020},<br /> month     = {7},<br /> doi       = {10.24963/ijcai.2020/278},<br /> url       = {https://doi.org/10.24963/ijcai.2020/278},<br /> }
+        </pre>
+      </div>
+      
+		</td>
+	</tr>
+	
+</tbody>
+</table>
+:ET

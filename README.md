@@ -1,2 +1,3 @@
-# grunnsec.github.io
-RUG Security Group Web page.
+# KRL research group
+This is the website of our academic research group.
+

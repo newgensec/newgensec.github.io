@@ -1,0 +1,259 @@
+I"�(<h2 class="sapienza-text">Group Members</h2>
+
+<p><strong>We are  looking for new PhD students, Postdocs, and Master students to join the team</strong> <a href="http://localhost:4000/vacancies">(see openings)</a> <strong>!</strong></p>
+<div class="row"></div>
+<h3 class="sapienza-text">Faculty</h3>
+
+<div class="row">
+
+  <div class="col-sm-5 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/capobianco.jpg" alt="photo Roberto Capobianco" class="responsive" style="float: right" /></p>
+    <h4 class="person-name">Roberto Capobianco</h4>
+    <p><i>
+    Associate professor
+  </i>
+    <i>
+    Associate professor
+  </i>
+  <br /></p>
+
+    <p><a href="http://robertocapobianco.com/">
+  <img src="http://localhost:4000/images/icons/home.png" alt="Home page Roberto Capobianco" class="icons" />
+  </a></p>
+
+    <p><a href="https://www.linkedin.com/in/rcapobianco">
+  <img src="http://localhost:4000/images/icons/linkedin.png" alt="Linkedin Roberto Capobianco" class="icons" />
+  </a></p>
+
+    <p><br /></p>
+
+    <p><b>Bio: </b>I am a Research Scientist at Sony AI and Assistant Professor at the Department of Computer, Control, and Management Engineering “Antonio Ruberti” (DIAG), Sapienza University of Rome. I am also a freelancer, consulting for companies and start-ups on artificial intelligence, machine learning and robotics. My research is focused on reinforcement learning, AI explainability, robot control and knowledge representation.</p>
+
+  </div>
+
+  <div class="row"></div>
+  <h3 class="sapienza-text">PhD Students</h3>
+
+  <div class="row">
+
+    <div class="col-sm-5 clearfix">
+      <p><img src="http://localhost:4000/images/teampic/larosa.jpg" alt="photo Biagio La Rosa" class="responsive" style="float: right" /></p>
+      <h4 class="person-name">Biagio La Rosa</h4>
+      <p><i>
+    PhD Student
+  </i>
+  <br /></p>
+
+      <p><a href="https://biagiomattialarosa.github.io/">
+  <img src="http://localhost:4000/images/icons/home.png" alt="Home page Biagio La Rosa" class="icons" />
+  </a></p>
+
+      <p><a href="mailto:larosa@diag.uniroma1.it">
+  <img src="http://localhost:4000/images/icons/email.png" alt="Email Biagio La Rosa" class="icons" />
+  </a></p>
+
+      <p><a href="https://github.com/biagiomattialarosa">
+  <img src="http://localhost:4000/images/icons/github.png" alt="Githun Biagio La Rosa" class="icons" />
+  </a></p>
+
+      <p><a href="https://twitter.com/larosabiagio">
+  <img src="http://localhost:4000/images/icons/twitter.png" alt="Twitter Biagio La Rosa" class="icons" />
+  </a></p>
+
+      <p><a href="https://www.linkedin.com/in/larosabiagio">
+  <img src="http://localhost:4000/images/icons/linkedin.png" alt="Linkedin Biagio La Rosa" class="icons" />
+  </a></p>
+
+      <p><br /></p>
+
+      <p><b>Bio: </b>I am a continuous learner looking for new concepts from different fields and domains — e.g. AI, psychology, astronomy and neuroscience. My research is focused on improving the interpretability of Deep Learning techniques, such as Recurrent Networks or Memory Augmented Neural Networks. I am deeply interested on the connection between memory, learning process and interpretability from both computational and cognitive perspectives. I have a background in computer science and Artificial Intelligence, having a M. Sc. degree in “Artificial Intelligence and Robotics” and a B. Sc. in “Computer Science”, both from the Sapienza University.</p>
+
+    </div>
+
+    <div class="col-sm-5 clearfix">
+      <p><img src="http://localhost:4000/images/teampic/umili.jpg" alt="photo Elena Umili" class="responsive" style="float: right" /></p>
+      <h4 class="person-name">Elena Umili</h4>
+      <p><i>
+    PhD Student
+  </i>
+  <br /></p>
+
+      <p><a href="https://phd.uniroma1.it/web/ELENA-UMILI_nP1491499_EN.aspx">
+  <img src="http://localhost:4000/images/icons/home.png" alt="Home page Elena Umili" class="icons" />
+  </a></p>
+
+      <p><a href="mailto:umili@diag.uniroma1.it">
+  <img src="http://localhost:4000/images/icons/email.png" alt="Email Elena Umili" class="icons" />
+  </a></p>
+
+      <p><a href="https://www.linkedin.com/in/elena-umili-b65a89183">
+  <img src="http://localhost:4000/images/icons/linkedin.png" alt="Linkedin Elena Umili" class="icons" />
+  </a></p>
+
+      <p><br /></p>
+
+      <p><b>Bio: </b>I am a second-year Ph.D. student at Sapienza University of Rome, under the supervision of professors Giuseppe De Giacomo and Roberto Capobianco. I’m interested in Reinforcement Learning, Planning, and Representation Learning. In particular, my research focuses on bridging the gap between neural networks representation and symbolic logical models, to enhance knowledge transfer, generalization and explainability. I’m also a big fan of robotics applications, developed also during my studies in Artificial Intelligence and Robotics at Sapienza University.</p>
+
+    </div>
+
+  </div>
+
+  <div class="row">
+
+    <div class="col-sm-5 clearfix">
+      <p><img src="http://localhost:4000/images/teampic/ciabatti.jpg" alt="photo Giulia Ciabatti" class="responsive" style="float: right" /></p>
+      <h4 class="person-name">Giulia Ciabatti</h4>
+      <p><i>
+    PhD Student
+  </i>
+  <br /></p>
+
+      <p><a href="https://www.linkedin.com/in/giulia-ciabatti-6797b1194">
+  <img src="http://localhost:4000/images/icons/linkedin.png" alt="Linkedin Giulia Ciabatti" class="icons" />
+  </a></p>
+
+      <p><br /></p>
+
+      <p><b>Bio: </b>I am a PhD student at Sapienza, University of Rome. My interests include AI and Robotics, Aerospace Systems and Astrophysics. My research is focused on developing techniques for interpretability and performance enhancement of Deep Learning, in particular for Deep Reinforcement Learning, by means of a Physics-Informing approach. I am especially interested in developing my research in the fields of aeronautic and space exploration systems, mobile robotics and autonomous manned and unmanned vehicles. I have a B. Sc. in “Aerospace Engineering” and a M. Sc. Degree in “Artificial Intelligence and Robotics”, both earned at Sapienza University.</p>
+
+    </div>
+
+    <div class="col-sm-5 clearfix">
+      <p><img src="http://localhost:4000/images/teampic/ragno.jpg" alt="photo Alessio Ragno" class="responsive" style="float: right" /></p>
+      <h4 class="person-name">Alessio Ragno</h4>
+      <p><i>
+    PhD Student
+  </i>
+  <br /></p>
+
+      <p><a href="https://github.com/spideralessio">
+  <img src="http://localhost:4000/images/icons/github.png" alt="Githun Alessio Ragno" class="icons" />
+  </a></p>
+
+      <p><a href="https://www.linkedin.com/in/spideralessio">
+  <img src="http://localhost:4000/images/icons/linkedin.png" alt="Linkedin Alessio Ragno" class="icons" />
+  </a></p>
+
+      <p><br /></p>
+
+      <p><b>Bio: </b>I am a Ph.D student in Artificial Intelligence under the supervision of prof. Roberto Capobianco. I am  interestested in the application of AI to different scientific fields and I think that Explainable AI could play an essential role for this purpose. I have a M.Sc. degree in AI &amp; Robotics and a B.Sc. degree in Computer and Control Engineering. I have also some background in the application of AI to drug discovery gained through abroad experience at the University of North Carolina.</p>
+
+    </div>
+
+  </div>
+
+  <div class="row"></div>
+  <h3 class="sapienza-text">Master Students</h3>
+
+  <div class="row">
+
+    <div class="col-sm-6 clearfix">
+      <p><img src="http://localhost:4000/images/teampic/no_avatar.jpg" alt="photo Isabella Claire Adriani" class="responsive" style="float: left" /></p>
+      <h4 class="person-name">Isabella Claire Adriani</h4>
+      <p><i>
+    Master Student
+  </i>
+  <br /></p>
+
+    </div>
+
+    <div class="col-sm-6 clearfix">
+      <p><img src="http://localhost:4000/images/teampic/no_avatar.jpg" alt="photo Roberto Aureli" class="responsive" style="float: left" /></p>
+      <h4 class="person-name">Roberto Aureli</h4>
+      <p><i>
+    Master Student
+  </i>
+  <br /></p>
+
+    </div>
+
+  </div>
+
+  <div class="row">
+
+    <div class="col-sm-6 clearfix">
+      <p><img src="http://localhost:4000/images/teampic/no_avatar.jpg" alt="photo Francesco Cassini" class="responsive" style="float: left" /></p>
+      <h4 class="person-name">Francesco Cassini</h4>
+      <p><i>
+    Master Student
+  </i>
+  <br /></p>
+
+    </div>
+
+    <div class="col-sm-6 clearfix">
+      <p><img src="http://localhost:4000/images/teampic/no_avatar.jpg" alt="photo Giulia Castro" class="responsive" style="float: left" /></p>
+      <h4 class="person-name">Giulia Castro</h4>
+      <p><i>
+    Master Student
+  </i>
+  <br /></p>
+
+    </div>
+
+  </div>
+
+  <div class="row">
+
+    <div class="col-sm-6 clearfix">
+      <p><img src="http://localhost:4000/images/teampic/no_avatar.jpg" alt="photo Francesco Chichi" class="responsive" style="float: left" /></p>
+      <h4 class="person-name">Francesco Chichi</h4>
+      <p><i>
+    Master Student
+  </i>
+  <br /></p>
+
+    </div>
+
+    <div class="col-sm-6 clearfix">
+      <p><img src="http://localhost:4000/images/teampic/no_avatar.jpg" alt="photo David Esteban Imbajoa Ruiz" class="responsive" style="float: left" /></p>
+      <h4 class="person-name">David Esteban Imbajoa Ruiz</h4>
+      <p><i>
+    Master Student
+  </i>
+  <br /></p>
+
+    </div>
+
+  </div>
+
+  <div class="row">
+
+    <div class="col-sm-6 clearfix">
+      <p><img src="http://localhost:4000/images/teampic/no_avatar.jpg" alt="photo Francesco Vincelli" class="responsive" style="float: left" /></p>
+      <h4 class="person-name">Francesco Vincelli</h4>
+      <p><i>
+    Master Student
+  </i>
+  <br /></p>
+
+    </div>
+
+  </div>
+
+  <div>
+    <p><br /></p>
+    <h3 class="person-name">Past students</h3>
+    <p><br /></p>
+
+    <p>Riccardo Caprari, M.Sc. in AI &amp; Robotics, Graduation: Fall 2021</p>
+
+    <p>Roberto Gallotta, M.Sc. in AI &amp; Robotics, Graduation: Fall 2021</p>
+
+    <p>Giulia Ciabatti, M.Sc. in AI &amp; Robotics, Graduation: Fall 2021</p>
+
+    <p>Sayo Makinwa, M.Sc. in AI &amp; Robotics, Graduation: Summer 2021</p>
+
+    <p>Alessio Ragno, M.Sc. in AI &amp; Robotics, Graduation: Spring 2021</p>
+
+    <p>Dylan Savoia, M.Sc. in AI &amp; Robotics, Graduation: Spring 2021</p>
+
+    <p>Luca Santilli, M.Sc. in AI &amp; Robotics, Graduation: Spring 2021</p>
+
+    <p>Andres Fernando Arciniegas, M.Sc. in AI &amp; Robotics, Graduation: Spring 2021</p>
+
+    <p>Sanni Oluwatoyin Yetunde, M.Sc. in AI &amp; Robotics, Graduation: Spring 2021</p>
+
+  </div>
+</div>
+:ET

@@ -1,0 +1,70 @@
+
+- date: 23. Oct 2025
+  headline: "We’re excited to share our latest review article, “XAI-Guided Continual Learning: Rationale, Methods, and Future Directions”, published in Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery."
+
+- date: 29. May 2024
+  headline: "New openings for PhD Positions. Please check out the dedicated page on our website: <a href='https://krlgroup.github.io/vacancies'>krlgroup.github.io/vacancies</a>."
+
+- date: 07. May 2024
+  headline: "Congratulations to Biagio La Rosa to have successfully defended his dissertation! We are very proud of him and we wish him all the best for his future career!"
+
+- date: 22. September 2023
+  headline: "Our paper 'Towards a fuller understanding of neurons with Clustered Compositional Explanations' has been accepted at NeurIPS 2023!"
+
+- date: 15. September 2023
+  headline: "Our workshop '<a href='https://xai4drl.github.io/'>XAI 4 Deep Reinforcement Learning</a>' has been accepted at AAAI24!! Call for papers is coming soon! See you in Vancouver!"
+
+- date: 18. May 2023
+  headline: "Congratulation to Elena Umili to have successfully defended her dissertation! Elena is the first PhD student to graduate of our group! We are very proud of her and we wish her all the best for her future career!"
+
+- date: 2. April 2023
+  headline: "Our paper \"An Overview of Environmental Features that Impact Deep Reinforcement Learning in Sparse-Reward Domains\" has been accepted in JAIR journal!"
+
+- date: 17. March 2023
+  headline: "Our paper \"Explainable AI in Drug Discovery: Self-interpretable Graph Neural Network for molecular property prediction using Concept Whitening\" has been accepted in the Machine Learning Journal! Congratulations for the first accepted paper to our new PhD student Michela Proietti!"
+
+- date: 17. November 2022
+  headline: "We are happy to share that ur paper \"Prototype-based Interpretable Graph Neural Networks\" has been published in the IEEE Transactions on Artificial Intelligence Journal! You can find info and link on the publication page"
+
+- date: 30. September 2022
+  headline: "Welcome to the new phd students Michela Proietti and Andrea Fanti!"
+
+- date: 5. May 2022
+  headline: "We are glad to announce that that our paper \"A self-interpretable module for deep image classification on small data\" has been published today in the Applied Intelligence Journal (https://rdcu.be/cS4P5)."
+
+
+- date: 7. October 2021
+  headline: 'We are happy to share that we have four papers accepted at AIxIA 2021!!! Congratulation to all the students and collaborators! They are:
+  "Exploration-Intensive Distractors: Two Environment Proposals and a Benchmarking" by Jim Martin Catacora Ocaña, Roberto Capobianco and Daniele Nardi; "Detection Accuracy for Evaluating Compositional Explanations of Units"
+  by Sayo M. Makinwa, Biagio La Rosa and Roberto Capobianco; 
+  "A Discussion about Explainable Inference on Sequential Data via Memory-Tracking" by Biagio La Rosa, Roberto Capobianco, and Daniele Nardi; and "Tafl-ES: Exploring Evolution Strategies for Asymmetrical Board Games" by Roberto Gallotta and Roberto Capobianco. The link will be available online as soon as possible.'
+
+- date: 30. September 2021
+  headline: "Welcome to the new phd students Alessio Ragno and Giulia Ciabatti!"
+
+- date: 19. August 2021
+  headline: 'We are happy to announce that our paper "Agent-Based Markov Modeling for Improved COVID-19 Mitigation Policies" has been published in JAIR (Journal of Artificial Intelligence Research). Joint work between Roberto Capobianco,  Varun Raj Kompella, James Ault, Guni Sharon, Stacy Jong, Spencer Fox, Lauren Meyers, Peter Wurman and Peter Stone. In this paper, we study how reinforcement learning and Bayesian inference can be used to optimize mitigation policies that minimize economic impact without overwhelming hospital capacity. For more details, check out the manuscript <a href="https://jair.org/index.php/jair/article/view/12632">here</a>.'
+
+- date: 28. June 2021
+  headline: 'Our paper "Learning Transferable Policies for Autonomous Planetary Landing via Deep Reinforcement Learning", submitted to ascend aiaa 2021 has been accepted!
+  Joint work between Giulia Ciabatti, Shreyansh Daftry and Roberto Capobianco. Link to the paper is coming soon!'
+
+- date: 26. April 2021
+  headline: 'Our paper "Autonomous Planetary Landing via Deep Reinforcement Learning and Transfer Learning" has been accepted for publication at CVPR 2021, AI for Space.'
+
+- date: 3. March 2021
+  headline: 'Check out the new blog post from Dr. Peter Stone about the Pandemic Simulator on the <a href="https://www.ai.sony/blog/blog-003/">site of Sony AI</a>.
+  It describes the ideas behind our recent papers “Multiagent Epidemiologic Inference through Realtime Contact Tracing” and “Reinforcement Learning for Optimization of COVID-19 Mitigation Policies”!'
+  
+- date: 1. October 2020
+  headline: 'A porting on PyTorch of our paper "Explainable Inference on Sequential Data via Memory-Tracking" has been officially released <a href="https://github.com/KRLGroup/explainable-inference-on-sequential-data-via-memory-tracking">here</a>.'
+
+- date: 29. September 2020
+  headline: "Welcome to the first PhD student of our group: Biagio La Rosa!"
+
+- date: 10. July 2020
+  headline: "IJCAI-2020 proceedings are out!! You can find our paper <a href='https://www.ijcai.org/Proceedings/2020/0278.pdf'>here</a>. The code and the blog post are coming soon!!!"
+
+- date: 20. April 2020
+  headline: "Our paper on “Explainable Inference on Sequential Data via Memory-Tracking” has been accepted at IJCAI-PRICAI 2020 !!!"
+

@@ -1,0 +1,71 @@
+- name: Elena Umili
+  photo: umili.jpg
+  info: PostDoc Student
+  bio: I am a PostDoc at Sapienza University of Rome. I’m interested in Deep Learning, Deep Reinforcement Learning and Neuro-Symbolic Integration. In particular, my research focuses on bridging the gap between neural networks representation and symbolic logical models, to enhance knowledge transfer, generalization and explainability.
+  webpage: https://phd.uniroma1.it/web/ELENA-UMILI_nP1491499_EN.aspx
+  github: 
+  linkedin: elena-umili-b65a89183
+  twitter: 
+  email: umili@diag.uniroma1.it
+
+# - name: Biagio La Rosa
+#   photo: larosa.jpg
+#   info: PhD Student
+#   bio: I am a continuous learner looking for new concepts from different fields and domains — e.g. AI, psychology, astronomy and neuroscience. My research is focused on improving the interpretability of Deep Learning techniques, such as Recurrent Networks or Memory Augmented Neural Networks. I am deeply interested on the connection between memory, learning process and interpretability from both computational and cognitive perspectives. I have a background in computer science and Artificial Intelligence, having a M. Sc. degree in "Artificial Intelligence and Robotics" and a B. Sc. in "Computer Science", both from the Sapienza University.
+#   webpage: https://biagiomattialarosa.github.io/
+#   github: biagiomattialarosa
+#   linkedin: larosabiagio
+#   twitter: larosabiagio
+#   email: larosa@diag.uniroma1.it
+
+- name: Giulia Ciabatti
+  photo: ciabatti.jpg
+  info: PhD Student
+  bio: I am a PhD student at Sapienza, University of Rome. My interests include AI and Robotics, Aerospace Systems, and Astrophysics. My research is focused on developing techniques for interpretability and performance enhancement of Deep Learning, in particular for Deep Reinforcement Learning, by means of a Physics-Informing approach. I am especially interested in developing my research in the fields of aeronautic and space exploration systems, mobile robotics, and autonomous manned and unmanned vehicles. I have a B. Sc. in "Aerospace Engineering" and a M. Sc. Degree in "Artificial Intelligence and Robotics", both earned at Sapienza University.
+  webpage: 
+  github: 
+  linkedin: giulia-ciabatti-6797b1194
+  twitter: 
+  email: 
+
+# - name: Alessio Ragno
+#   photo: ragno.jpg
+#   info: PhD Student
+#   bio: I am a Ph.D. student in Artificial Intelligence under the supervision of prof. Roberto Capobianco. I am interested in the application of AI to different scientific fields and I think that Explainable AI could play an essential role for this purpose. My Ph.D. project consists in developing model-specific XAI methods, using a topology-based approach, in order to identify and learn data representations able to provide human-interpretable explanations of the neural network predictions.I have an M.Sc. degree in AI & Robotics and a B.Sc. degree in Computer and Control Engineering. I have also some background in the application of AI to chemistry and drug discovery gained through abroad experience at the University of North Carolina and collaborations with the Pharmaceutical Chemistry and Technology Department at the Sapienza University of Rome.
+#   webpage: https://alessio.ragno.info
+#   github: spideralessio
+#   linkedin: spideralessio
+#   twitter: 
+#   email:
+
+- name: Michela Proietti
+  photo: proietti.jpg
+  info: PhD Student
+  bio: I am a Ph.D. student in Artificial Intelligence at Sapienza University of Rome. I previously obtained a B.Sc. in Computer and Control Engineering and a M.Sc. in Artificial Intelligence and Robotics both from Sapienza University. I am interested in explainable AI, representation learning, reinforcement learning and their close link with neuroscience. Starting from findings from the neuroscientific domain, my research is focused on the use of XAI methods to study how memorization of the input is influenced by its representation in order to address the problem of catastrophic forgetting in continual learning.
+  webpage: 
+  github: 
+  linkedin: michela-proietti-5690b3208
+  twitter: 
+  email:
+
+- name: Andrea Fanti
+  photo: fanti.jpeg
+  info: PhD Student
+  bio: I'm a PhD student in Engineering in Computer Science at Sapienza University of Rome. Currently, my research focuses on emergent behaviours in multi-agent Reinforcement Learning environments and other Reinforcement Learning exploration techniques. More broadly, I am interested in how to continually generate complexity and novelty in Artificial Intelligence, and as such I am also interested in Novelty Search and various forms of Evolutionary Computation. My background includes a master's degree in Artificial Intelligence and Robotics and a bachelor's degree in Engineering in Computer Science obtained at Sapienza University of Rome.
+  webpage: 
+  github: rikifun-t
+  linkedin: 
+  twitter: 
+  email: fanti@diag.uniroma1.it
+
+- name: Federico Di Valerio
+  photo: divalerio.jpg
+  info: PhD Student
+  bio: I am a Ph.D. student at Sapienza University of Rome, with research interests in Continual Learning, eXplainable AI, and their intersections with neuroscience and cognitive science. I hold both a Bachelor's degree in Computer and Control Engineering and a Master's degree in Artificial Intelligence and Robotics from Sapienza University. My current research focuses on improving Continual Learning systems by drawing inspiration from brain mechanisms to address challenges such as catastrophic forgetting and computational efficiency.
+  webpage: 
+  github: Twim17
+  linkedin: federico-di-valerio-29a46230b
+  twitter: 
+  email: 
+
+
