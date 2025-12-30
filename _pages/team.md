@@ -1,7 +1,7 @@
 ---
-title: "KRL Research Group - Team"
+title: "GrunnSec Research Group - Team"
 layout: gridlay
-excerpt: "KRL Research Group: Team members"
+excerpt: "GrunnSec Research Group: Team members"
 sitemap: false
 permalink: /team/
 ---

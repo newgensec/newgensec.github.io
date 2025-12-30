@@ -1,5 +1,5 @@
 ---
-title: "KRL Research Group - Join Us"
+title: "GrunnSec Research Group - Join Us"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
@@ -22,21 +22,21 @@ PhD Website 2024: Upcoming...<br>-->
 
 
 <h3 class="sapienza-text">Applications for PhD and Postdoc positions</h3>
-If you are interested in working with us as a PhD student or postdoc, please contact me per email ( capobianco AT diag.uniroma1.it).
+If you are interested in working with us as a PhD student or postdoc, please contact me per email ( f.turkmen[AT]rug(DOT)nl).
 
 Topics:
-<ul>
-  <li>Explainable Artificial Intelligence (XAI)</li> 
-<li>Reinforcement Learning</li> 
-<li>Continual Learning</li> 
-<li>Neurosymbolic AI</li> 
-<li>Applications of these technologies in real-world scenarios</li> 
+ <ul>
+  <li>security attacks against AI systems</li>
+  <li>privacy-preserving, decentralized machine learning</li>
+  <li>fuzz testing of software and systems</li>
+  <li>authentication and authorization systems</li>
 </ul>
 
-<h3 class="sapienza-text"> Master Theses for Sapienza University students</h3>
-If you are a Master student at Sapienza University looking for a Master project, contact me per email ( capobianco AT diag.uniroma1.it) or stop by my office. We are interested mainly on thesis projects about robot learning, knowledge acquisition and learning, reinforcement learning or explainable artificial intelligence, but different topics are welcome!
-Here you can find a brief list of available topics for master thesis. These are only a limited set, many others are available and we are also open to your proposals. When you contact us, please identify a macro-topic (RL, XAI, CL+XAI, RL+XAI, NeSy). 
-<ul>
+<h3 class="sapienza-text"> Master Theses for University of Groningen students</h3>
+If you are a Master student at University of Groningen looking for a Master project, contact me per email ( f.turkmen[AT]rug(DOT)nl) or stop by my office. 
+<!-- We are interested mainly on thesis projects about robot learning, knowledge acquisition and learning, reinforcement learning or explainable artificial intelligence, but different topics are welcome!
+Here you can find a brief list of available topics for master thesis. These are only a limited set, many others are available and we are also open to your proposals. When you contact us, please identify a macro-topic (RL, XAI, CL+XAI, RL+XAI, NeSy).  -->
+<!-- <ul>
 <li>[XAI] <strong>Everything related to improving XAI methods.</strong></li> 
 <li>[RL] <strong>Everything related to improving RL agents.</strong></li> 
 <li>[XAI] <strong>Improving Transparent Explainable Logic Layers</strong>: Overcoming limitations of TELL (<a href="https://doi.org/10.3233/FAIA240579">10.3233/FAIA240579</a>)</li> 
@@ -69,6 +69,6 @@ Use the HDAC datasets (11 protein groups, with the first being much larger than 
 <a href="https://arxiv.org/abs/2405.14389" target="_blank">2405.14389</a>)</li>
 <li>[NeSy / NeSyRL] <strong> Logically informed autoregressive learning</strong>. Training/ finetuning autoregresive deep models (LLM / RL agents ) with background knowledge in formal languages. (<a href="https://ceur-ws.org/Vol-3779/paper4.pdf" target="_blank">paper4.pdf</a>, 
 <a href="https://arxiv.org/abs/2504.13139" target="_blank">2504.13139</a>, <a href="https://arxiv.org/abs/2311.00094" target="_blank">2311.00094</a>, <a href="https://arxiv.org/abs/2312.03905" target="_blank">2312.03905</a>)</li>
-</ul>
+</ul> -->
 
 

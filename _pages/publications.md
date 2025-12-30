@@ -1,7 +1,7 @@
 ---
-title: "KRL Research Group - Publications"
+title: "GrunnSec Research Group - Publications"
 layout: gridlay
-excerpt: "KRL Research Group -- Publications."
+excerpt: "GrunnSec Research Group -- Publications."
 sitemap: false
 permalink: /publications/
 ---

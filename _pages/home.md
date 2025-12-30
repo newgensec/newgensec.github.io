@@ -1,12 +1,21 @@
 ---
-title: "KRL Research Group - Home"
+title: "GrunnSec Research Group - Home"
 layout: homelay
-excerpt: "KRL Research Group."
+excerpt: " Security/Privacy Research Group at the University of Groningen"
 sitemap: false
 permalink: /
 ---
+<!-- NGSPR (New Generation Security and Privacy Research) -->
 
-The Knowledge, Reasoning and Learning Group at the University "Sapienza" of Rome is a dynamic research group of faculty, PhD and master students inside the <a href="http://labrococo.dis.uniroma1.it/">Ro.Co.Co. Lab</a>. It is led by prof. <a href="http://robertocapobianco.com/">Roberto Capobianco</a> and current emphases of research includes robot learning, knowledge acquisition and learning, reinforcement learning and explainable artificial intelligence. KRL members are also involved on works in collaboration with other research areas like chemistry, exoplanet exploration and industrial robot application.
+ GrunnSec is a like minded, dynamic group of people conducting cutting-edge research on security and privacy at the University of Groningen. The group is led by prof. <a href="https://www.cs.rug.nl/~turkmen/">Fatih Turkmen</a> and includes excellent PhD and master/bachelor students pushing the envelope on topics related to:
+ <ul>
+  <li>security attacks against AI systems</li>
+  <li>privacy-preserving, decentralized machine learning</li>
+  <li>fuzz testing of software and systems</li>
+  <li>authentication and authorization systems</li>
+</ul>
+  
+ <!-- GrunnSec members are also involved on works in collaboration with other research areas like electronics, exoplanet exploration and industrial robot application. -->
 
 
 
@@ -46,8 +55,8 @@ The Knowledge, Reasoning and Learning Group at the University "Sapienza" of Rome
  **We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-We are grateful for funding from:
+<!-- We are grateful for funding from: -->
 
-<figure class="fourth">
+<!-- <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/sapienza.webp" style="width: 150px">
-</figure>
+</figure> -->

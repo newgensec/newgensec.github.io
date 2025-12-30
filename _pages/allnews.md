@@ -1,7 +1,7 @@
 ---
-title: "KRL Research Group - News"
+title: "GrunnSec Research Group - News"
 layout: textlay
-excerpt: "KRL Research Group"
+excerpt: "GrunnSec Research Group"
 sitemap: false
 permalink: /allnews.html
 ---
