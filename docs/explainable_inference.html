@@ -7,9 +7,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Explainable Inference on Sequential Data via Memory-Tracking</title>
   <meta name="description" content="This post describes the proposed approach of our IJCAI paper “Explainable Inference on Sequential Data via Memory-Tracking” written by Biagio La Rosa, Robert...">
-  <link rel="stylesheet" href="https://grunnsec.github.io/css/main.css">
-  <link rel="canonical" href="https://grunnsec.github.io/explainable_inference">
-<link rel="shortcut icon" type ="image/x-icon" href="https://grunnsec.github.io/images/favicon.ico">
+  <link rel="stylesheet" href="https://newgensec.github.io/css/main.css">
+  <link rel="canonical" href="https://newgensec.github.io/explainable_inference">
+<link rel="shortcut icon" type ="image/x-icon" href="https://newgensec.github.io/images/favicon.ico">
 
 
 
@@ -28,17 +28,17 @@
 		<span class="icon-bar"></span>
 	  </button>
 	
-    <a class="navbar-brand sapienza-bg " style="color: white;"  href="https://grunnsec.github.io/">KRL Research Group</a>
+    <a class="navbar-brand sapienza-bg " style="color: white;"  href="https://newgensec.github.io/">KRL Research Group</a>
 	</div>
 	<div class="collapse navbar-collapse sapienza-bg" id="navbar-collapse-1">
 	  <ul class="nav navbar-nav navbar-right"  >
-		<li><a style="color: white;" href="https://grunnsec.github.io/">Home</a></li>
-		<li><a style="color: white;" href="https://grunnsec.github.io/allnews.html">News</a></li>
-		<li><a style="color: white;" href="https://grunnsec.github.io/team">Team</a></li>
-		<li><a style="color: white;" href="https://grunnsec.github.io/vacancies">Join Us</a></li>
-		<li><a style="color: white;" href="https://grunnsec.github.io/publications">Publications</a></li>
-		<!--<li><a style="color: white;" href="https://grunnsec.github.io/research">Research</a></li>-->
-		<li><a style="color: white;" href="https://grunnsec.github.io/blog">Blog</a></li>
+		<li><a style="color: white;" href="https://newgensec.github.io/">Home</a></li>
+		<li><a style="color: white;" href="https://newgensec.github.io/allnews.html">News</a></li>
+		<li><a style="color: white;" href="https://newgensec.github.io/team">Team</a></li>
+		<li><a style="color: white;" href="https://newgensec.github.io/vacancies">Join Us</a></li>
+		<li><a style="color: white;" href="https://newgensec.github.io/publications">Publications</a></li>
+		<!--<li><a style="color: white;" href="https://newgensec.github.io/research">Research</a></li>-->
+		<li><a style="color: white;" href="https://newgensec.github.io/blog">Blog</a></li>
 	  </ul>
 	</div>
   </div>
@@ -69,7 +69,7 @@ set of stories composed by four premises each. We trained a Memory Augmented Neu
 
 <center>
 <div style=" width:400px">
- <img src="https://grunnsec.github.io/images/paperpic/blog_paper/lime.png" style="width: 500px" />
+ <img src="https://newgensec.github.io/images/paperpic/blog_paper/lime.png" style="width: 500px" />
  <br /><small><em>Fig.1: Example output of LIME, where each word in the sentence is weighted based on its relevance. Blue words, if removed,
 decrease the probability of choosing the first ending; orange words,
 if removed, decrease the probability of choosing the second ending.</em></small>
@@ -89,7 +89,7 @@ First of all, model-agnostic methods usually require the input as a whole and it
 
 <center>
 <div style=" width:400px">
- <img src="https://grunnsec.github.io/images/paperpic/blog_paper/memoryexp.png" style="width: 300px" />
+ <img src="https://newgensec.github.io/images/paperpic/blog_paper/memoryexp.png" style="width: 300px" />
  <br /><small><em>Fig.2: Sketch of the system architecture. From the memory, the
 read and write history are fed to the explanation module. Specifically, &lt; C<sub>i</sub>, w<sub>j</sub> &gt; indicates that word w<sub>j</sub> is stored in cell C<sub>i</sub>. The
 output of the explanation module is a vector (at the bottom of the
@@ -128,7 +128,7 @@ During the parsing of your predicted ending, the read history is (or to better s
 
 <center>
 <div style=" width:400px">
- <img src="https://grunnsec.github.io/images/paperpic/blog_paper/example.png" style="width: 400px" />
+ <img src="https://newgensec.github.io/images/paperpic/blog_paper/example.png" style="width: 400px" />
  <br /><small><em>Fig.3: Example outputs on the Story Cloze Test. A relevance
 score is associated to each premise — ranked from best (blue) to
 worst (orange). Predictions are highlighted in green if correct, or
@@ -145,7 +145,7 @@ red if wrong.</em></small>
 
 <center>
 <div style=" width:400px">
- <img src="https://grunnsec.github.io/images/paperpic/blog_paper/expacc.png" style="width: 300px" />
+ <img src="https://newgensec.github.io/images/paperpic/blog_paper/expacc.png" style="width: 300px" />
  <br /><small><em>Fig.4: Avg. explanation accuracy over 10 runs on the Story Cloze
 Test when feeding the model with only a random, the best and the
 worst premise.</em></small>
@@ -164,7 +164,7 @@ The results are presented in Figure 4. Here the best accuracy refers to the numb
 
 <center>
 <div style=" width:400px">
- <img src="https://grunnsec.github.io/images/paperpic/blog_paper/thresholdacc.png" style="width: 350px" />
+ <img src="https://newgensec.github.io/images/paperpic/blog_paper/thresholdacc.png" style="width: 350px" />
  <br /><small><em>Fig. 5: Avg. explanation accuracy on the dev set over 10 runs for
 the best and worst premises using different numbers of read cells for each step.</em></small>
 </div>
@@ -234,7 +234,7 @@ Waibel. <a href="https://www.aclweb.org/anthology/W18-2606.pdf/">LINK</a></p>
 </div>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<script src="https://grunnsec.github.io/js/bootstrap.min.js"></script>
+<script src="https://newgensec.github.io/js/bootstrap.min.js"></script>
 
 
   </body>
