@@ -9,7 +9,7 @@ permalink: /publications/
 
 <h1 class="sapienza-text"> Publications</h1>
 
-<h2 class="sapienza-text">In evidence</h2>
+
 <script type="text/javascript">
     <!--
     // Toggle Display of BibTeX

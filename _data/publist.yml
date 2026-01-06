@@ -1,819 +1,819 @@
-- title: "XAI-Guided Continual Learning: Rationale, Methods, and Future Directions"
-  authors:  Michela Proietti, Alessio Ragno, and Roberto Capobianco
-  year: 2025
-  publisher: WIREs Data Mining and Knowledge Discovery
-  link:
-    url:  https://wires.onlinelibrary.wiley.com/doi/10.1002/widm.70046
-    display: Paper
-  code: https://github.com/KRLGroup/XAI4CL
-  image: xai4cl.jpg
-  highlight: 1
-  description: The paper reviews the integration of explainable artificial intelligence into continual learning, a field focused on enabling neural networks to learn sequentially without catastrophic forgetting. By examining parallels between human memory processes and artificial forgetting, the work motivates the use of explainability techniques to enhance transparency and trust in continual learning systems. The review synthesizes existing approaches that apply interpretability methods to mitigate forgetting and identifies promising directions for future research grounded in both empirical neuroscience and machine learning practice.
-  bibtex: "@article{Proietti2025,
-  title = {XAI‐Guided Continual Learning: Rationale,  Methods,  and Future Directions},<br>
-  volume = {15},<br>
-  ISSN = {1942-4795},<br>
-  url = {http://dx.doi.org/10.1002/widm.70046},<br>
-  DOI = {10.1002/widm.70046},<br>
-  number = {4},
-  journal = {WIREs Data Mining and Knowledge Discovery},<br>
-  publisher = {Wiley},<br>
-  author = {Proietti,  Michela and Ragno,  Alessio and Capobianco,  Roberto},<br>
-  year = {2025},<br>
-  month = oct <br>
-}"
+# # - title: "XAI-Guided Continual Learning: Rationale, Methods, and Future Directions"
+# #   authors:  Michela Proietti, Alessio Ragno, and Roberto Capobianco
+# #   year: 2025
+# #   publisher: WIREs Data Mining and Knowledge Discovery
+# #   link:
+# #     url:  https://wires.onlinelibrary.wiley.com/doi/10.1002/widm.70046
+# #     display: Paper
+# #   code: https://github.com/KRLGroup/XAI4CL
+# #   image: xai4cl.jpg
+# #   highlight: 1
+# #   description: The paper reviews the integration of explainable artificial intelligence into continual learning, a field focused on enabling neural networks to learn sequentially without catastrophic forgetting. By examining parallels between human memory processes and artificial forgetting, the work motivates the use of explainability techniques to enhance transparency and trust in continual learning systems. The review synthesizes existing approaches that apply interpretability methods to mitigate forgetting and identifies promising directions for future research grounded in both empirical neuroscience and machine learning practice.
+# #   bibtex: "@article{Proietti2025,
+# #   title = {XAI‐Guided Continual Learning: Rationale,  Methods,  and Future Directions},<br>
+# #   volume = {15},<br>
+# #   ISSN = {1942-4795},<br>
+# #   url = {http://dx.doi.org/10.1002/widm.70046},<br>
+# #   DOI = {10.1002/widm.70046},<br>
+# #   number = {4},
+# #   journal = {WIREs Data Mining and Knowledge Discovery},<br>
+# #   publisher = {Wiley},<br>
+# #   author = {Proietti,  Michela and Ragno,  Alessio and Capobianco,  Roberto},<br>
+# #   year = {2025},<br>
+# #   month = oct <br>
+# # }"
 
-- title: "Intermediate Layers of LLMs Align Best With the Brain by Balancing Short- and Long-Range Information"
-  authors:  Michela Proietti, Roberto Capobianco, and Mariya Toneva
-  year: 2025
-  publisher: Conference on Cognitive Computational Neuroscience
+# - title: "Intermediate Layers of LLMs Align Best With the Brain by Balancing Short- and Long-Range Information"
+#   authors:  Michela Proietti, Roberto Capobianco, and Mariya Toneva
+#   year: 2025
+#   publisher: Conference on Cognitive Computational Neuroscience
 
-- title: "ProtoCRL: Prototype-based Network for Continual Reinforcement Learning"
-  authors:  Michela Proietti, Peter R. Wurman, Peter Stone, and Roberto Capobianco
-  year: 2025
-  publisher: Reinforcement Learning Conference
-  link:
-    url:  https://openreview.net/forum?id=oVJYozJXp8
-    display: Paper
-  bibtex: "@inproceedings{<br>
-proietti2025protocrl,<br>
-title={Proto{CRL}: Prototype-based Network for Continual Reinforcement Learning},<br>
-author={Michela Proietti and Peter R. Wurman and Peter Stone and Roberto Capobianco},<br>
-booktitle={Reinforcement Learning Conference},<br>
-year={2025},<br>
-url={https://openreview.net/forum?id=oVJYozJXp8}<br>
-}"
+# - title: "ProtoCRL: Prototype-based Network for Continual Reinforcement Learning"
+#   authors:  Michela Proietti, Peter R. Wurman, Peter Stone, and Roberto Capobianco
+#   year: 2025
+#   publisher: Reinforcement Learning Conference
+#   link:
+#     url:  https://openreview.net/forum?id=oVJYozJXp8
+#     display: Paper
+#   bibtex: "@inproceedings{<br>
+# proietti2025protocrl,<br>
+# title={Proto{CRL}: Prototype-based Network for Continual Reinforcement Learning},<br>
+# author={Michela Proietti and Peter R. Wurman and Peter Stone and Roberto Capobianco},<br>
+# booktitle={Reinforcement Learning Conference},<br>
+# year={2025},<br>
+# url={https://openreview.net/forum?id=oVJYozJXp8}<br>
+# }"
 
-- title: "Identifying Candidates for Protein-Protein Interaction: A Focus on NKp46's Ligands"
-  authors:  Alessia Borghini, Federico Di Valerio, Alessio Ragno, and Roberto Capobianco
-  year: 2024
-  publisher: 1st Workshop on Explainable Artificial Intelligence for the Medical Domain (EXPLIMED 2024)
-  link:
-    url:  https://ceur-ws.org/Vol-3831/paper14.pdf
-    display: Paper
+# - title: "Identifying Candidates for Protein-Protein Interaction: A Focus on NKp46's Ligands"
+#   authors:  Alessia Borghini, Federico Di Valerio, Alessio Ragno, and Roberto Capobianco
+#   year: 2024
+#   publisher: 1st Workshop on Explainable Artificial Intelligence for the Medical Domain (EXPLIMED 2024)
+#   link:
+#     url:  https://ceur-ws.org/Vol-3831/paper14.pdf
+#     display: Paper
 
-- title: "Transparent Explainable Logic Layers"
-  authors:  Alessio Ragno, Marc Plantevit, Celine Robardet, and Roberto Capobianco
-  year: 2024
-  publisher: 27th European Conference on Artificial Intelligence (ECAI 2024)
-  link:
-    url:  https://ebooks.iospress.nl/doi/10.3233/FAIA240579
-    display: Paper
-  code: https://github.com/KRLGroup/TELL
-  bibtex: "@incollection{ragno2024transparent,
-    title={Transparent Explainable Logic Layers},<br>
-    author={Ragno, Alessio and Plantevit, Marc and Robardet, Celine and Capobianco, Roberto},<br>
-    booktitle={ECAI 2024},<br>
-    pages={914--921},<br>
-    year={2024},<br>
-    publisher={IOS Press}<br>
-  }"
-  highlight: 1
-  image: tell.png
-  description: The paper proposes a Transparent Explainable Logic Layer (TELL), a novel approach to constructing intrinsically interpretable layers within neural networks. By constraining a feed-forward layer with positive weights and leveraging specialized activation functions, TELL enables the direct translation of model behavior into logic rules. Unlike prior methods limited to binary data, TELL introduces a mechanism for thresholding real values to create predicates, broadening its applicability. The approach achieves comparable classification performance to state-of-the-art models while providing superior explanatory power, as evidenced by the alignment between model outputs and logic-based explanations.
+# - title: "Transparent Explainable Logic Layers"
+#   authors:  Alessio Ragno, Marc Plantevit, Celine Robardet, and Roberto Capobianco
+#   year: 2024
+#   publisher: 27th European Conference on Artificial Intelligence (ECAI 2024)
+#   link:
+#     url:  https://ebooks.iospress.nl/doi/10.3233/FAIA240579
+#     display: Paper
+#   code: https://github.com/KRLGroup/TELL
+#   bibtex: "@incollection{ragno2024transparent,
+#     title={Transparent Explainable Logic Layers},<br>
+#     author={Ragno, Alessio and Plantevit, Marc and Robardet, Celine and Capobianco, Roberto},<br>
+#     booktitle={ECAI 2024},<br>
+#     pages={914--921},<br>
+#     year={2024},<br>
+#     publisher={IOS Press}<br>
+#   }"
+#   highlight: 1
+#   image: tell.png
+#   description: The paper proposes a Transparent Explainable Logic Layer (TELL), a novel approach to constructing intrinsically interpretable layers within neural networks. By constraining a feed-forward layer with positive weights and leveraging specialized activation functions, TELL enables the direct translation of model behavior into logic rules. Unlike prior methods limited to binary data, TELL introduces a mechanism for thresholding real values to create predicates, broadening its applicability. The approach achieves comparable classification performance to state-of-the-art models while providing superior explanatory power, as evidenced by the alignment between model outputs and logic-based explanations.
 
-- title: "Transfer Learning between non-Markovian RL Tasks through Semantic Representations of Temporal States"
-  authors:  Andrea Fanti, Elena Umili, and Roberto Capobianco
-  year: 2024
-  publisher: 1st International Workshop on Adjustable Autonomy and Physical Embodied Intelligence (AAPEI 2024)
-  link:
-    url:  https://ceur-ws.org/Vol-3779/paper4.pdf
-    display: Paper
-  code: https://github.com/KRLGroup/kernel-representations-transfer
+# - title: "Transfer Learning between non-Markovian RL Tasks through Semantic Representations of Temporal States"
+#   authors:  Andrea Fanti, Elena Umili, and Roberto Capobianco
+#   year: 2024
+#   publisher: 1st International Workshop on Adjustable Autonomy and Physical Embodied Intelligence (AAPEI 2024)
+#   link:
+#     url:  https://ceur-ws.org/Vol-3779/paper4.pdf
+#     display: Paper
+#   code: https://github.com/KRLGroup/kernel-representations-transfer
   
 
-- title: "Enhancing Deep Sequence Generation with Logical Temporal Knowledge"
-  authors:  Elena Umili, Gabriel Paludo Licks, and Fabio Patrizi
-  year: 2024
-  publisher: 3rd International Workshop on Process Management in the AI Era (PMAI 2024)
-  link:
-    url:  https://ceur-ws.org/Vol-3779/paper4.pdf
-    display: Paper
-  code: https://github.com/whitemech/suffix-prediction-pmai2024
-  bibtex: "@inproceedings{UmiliEnhancing,<br>
-  author       = {Elena Umili and<br>
-                  Gabriel Paludo Licks and<br>
-                  Fabio Patrizi},<br>
-  title        = {Enhancing Deep Sequence Generation with Logical Temporal Knowledge},<br>
-  booktitle    = {Proceedings of the 3rd International Workshop on Process Management<br>
-                  in the {AI} Era {(PMAI} 2024) co-located with 27th European Conference<br>
-                  on Artificial Intelligence {(ECAI} 2024), Santiago de Compostela,<br>
-                  Spain, October 19, 2024},<br>
-  series       = {{CEUR} Workshop Proceedings},<br>
-  volume       = {3779},<br>
-  pages        = {23--34},<br>
-  publisher    = {CEUR-WS.org},<br>
-  year         = {2024},<br>
-  url          = {https://ceur-ws.org/Vol-3779/paper4.pdf},<br>
-  timestamp    = {Mon, 28 Oct 2024 16:46:06 +0100},<br>
-  biburl       = {https://dblp.org/rec/conf/pmai/UmiliLP24.bib},<br>
-  bibsource    = {dblp computer science bibliography, https://dblp.org}<br>
-}"
+# - title: "Enhancing Deep Sequence Generation with Logical Temporal Knowledge"
+#   authors:  Elena Umili, Gabriel Paludo Licks, and Fabio Patrizi
+#   year: 2024
+#   publisher: 3rd International Workshop on Process Management in the AI Era (PMAI 2024)
+#   link:
+#     url:  https://ceur-ws.org/Vol-3779/paper4.pdf
+#     display: Paper
+#   code: https://github.com/whitemech/suffix-prediction-pmai2024
+#   bibtex: "@inproceedings{UmiliEnhancing,<br>
+#   author       = {Elena Umili and<br>
+#                   Gabriel Paludo Licks and<br>
+#                   Fabio Patrizi},<br>
+#   title        = {Enhancing Deep Sequence Generation with Logical Temporal Knowledge},<br>
+#   booktitle    = {Proceedings of the 3rd International Workshop on Process Management<br>
+#                   in the {AI} Era {(PMAI} 2024) co-located with 27th European Conference<br>
+#                   on Artificial Intelligence {(ECAI} 2024), Santiago de Compostela,<br>
+#                   Spain, October 19, 2024},<br>
+#   series       = {{CEUR} Workshop Proceedings},<br>
+#   volume       = {3779},<br>
+#   pages        = {23--34},<br>
+#   publisher    = {CEUR-WS.org},<br>
+#   year         = {2024},<br>
+#   url          = {https://ceur-ws.org/Vol-3779/paper4.pdf},<br>
+#   timestamp    = {Mon, 28 Oct 2024 16:46:06 +0100},<br>
+#   biburl       = {https://dblp.org/rec/conf/pmai/UmiliLP24.bib},<br>
+#   bibsource    = {dblp computer science bibliography, https://dblp.org}<br>
+# }"
 
-- title: "Neural Reward Machines"
-  authors:  Elena Umili, Francesco Argenziano, and Roberto Capobianco
-  year: 2024
-  publisher: 27th European Conference on Artificial Intelligence (ECAI 2024)
-  link:
-    url:  https://ebooks.iospress.nl/doi/10.3233/FAIA240596
-    display: Paper
-  code: https://github.com/whitemech/DeepDFA
-  bibtex: "@inproceedings{UmiliNeuralRewardMachines,
-  author       = {Elena Umili and<br>
-                  Francesco Argenziano and<br>
-                  Roberto Capobianco},<br>
-  title        = {Neural Reward Machines},
-  booktitle    = {{ECAI} 2024 - 27th European Conference on Artificial Intelligence,<br>
-                  19-24 October 2024, Santiago de Compostela, Spain - Including 13th<br>
-                  Conference on Prestigious Applications of Intelligent Systems {(PAIS}<br>
-                  2024)},<br>
-  series       = {Frontiers in Artificial Intelligence and Applications},<br>
-  volume       = {392},<br>
-  pages        = {3055--3062},<br>
-  publisher    = {{IOS} Press},<br>
-  year         = {2024},<br>
-  url          = {https://doi.org/10.3233/FAIA240847},<br>
-  doi          = {10.3233/FAIA240847},<br>
-  timestamp    = {Fri, 25 Oct 2024 12:13:46 +0200},<br>
-  biburl       = {https://dblp.org/rec/conf/ecai/UmiliAC24.bib},<br>
-  bibsource    = {dblp computer science bibliography, https://dblp.org}<br>
-}"
+# - title: "Neural Reward Machines"
+#   authors:  Elena Umili, Francesco Argenziano, and Roberto Capobianco
+#   year: 2024
+#   publisher: 27th European Conference on Artificial Intelligence (ECAI 2024)
+#   link:
+#     url:  https://ebooks.iospress.nl/doi/10.3233/FAIA240596
+#     display: Paper
+#   code: https://github.com/whitemech/DeepDFA
+#   bibtex: "@inproceedings{UmiliNeuralRewardMachines,
+#   author       = {Elena Umili and<br>
+#                   Francesco Argenziano and<br>
+#                   Roberto Capobianco},<br>
+#   title        = {Neural Reward Machines},
+#   booktitle    = {{ECAI} 2024 - 27th European Conference on Artificial Intelligence,<br>
+#                   19-24 October 2024, Santiago de Compostela, Spain - Including 13th<br>
+#                   Conference on Prestigious Applications of Intelligent Systems {(PAIS}<br>
+#                   2024)},<br>
+#   series       = {Frontiers in Artificial Intelligence and Applications},<br>
+#   volume       = {392},<br>
+#   pages        = {3055--3062},<br>
+#   publisher    = {{IOS} Press},<br>
+#   year         = {2024},<br>
+#   url          = {https://doi.org/10.3233/FAIA240847},<br>
+#   doi          = {10.3233/FAIA240847},<br>
+#   timestamp    = {Fri, 25 Oct 2024 12:13:46 +0200},<br>
+#   biburl       = {https://dblp.org/rec/conf/ecai/UmiliAC24.bib},<br>
+#   bibsource    = {dblp computer science bibliography, https://dblp.org}<br>
+# }"
 
-- title: "DeepDFA: Automata Learning through Neural Probabilistic Relaxations"
-  authors:  Elena Umili, and Roberto Capobianco
-  year: 2024
-  publisher: 27th European Conference on Artificial Intelligence (ECAI 2024)
-  link:
-    url:  https://ebooks.iospress.nl/doi/10.3233/FAIA240596
-    display: Paper
-  code: https://github.com/whitemech/DeepDFA
-  bibtex: "@inproceedings{UmiliDeepDFA,
-  author       = {Elena Umili and<br>
-                  Roberto Capobianco},
-  title        = {DeepDFA: Automata Learning through Neural Pr<br>obabilistic Relaxations},<br>
-  booktitle    = {{ECAI} 2024 - 27th European Conference on Artificial Intelligence,<br>
-                  19-24 October 2024, Santiago de Compostela, Spain - Including 13th<br>
-                  Conference on Prestigious Applications of Intelligent Systems {(PAIS}<br>
-                  2024)},<br>
-  series       = {Frontiers in Artificial Intelligence and Applications},<br>
-  volume       = {392},<br>
-  pages        = {1051--1058},<br>
-  publisher    = {{IOS} Press},<br>
-  year         = {2024},<br>
-  url          = {https://doi.org/10.3233/FAIA240596},<br>
-  doi          = {10.3233/FAIA240596},<br>
-  timestamp    = {Fri, 25 Oct 2024 12:13:46 +0200},<br>
-  biburl       = {https://dblp.org/rec/conf/ecai/UmiliC24.bib},<br>
-  bibsource    = {dblp computer science bibliography, https://dblp.org}<br>
-}"
+# - title: "DeepDFA: Automata Learning through Neural Probabilistic Relaxations"
+#   authors:  Elena Umili, and Roberto Capobianco
+#   year: 2024
+#   publisher: 27th European Conference on Artificial Intelligence (ECAI 2024)
+#   link:
+#     url:  https://ebooks.iospress.nl/doi/10.3233/FAIA240596
+#     display: Paper
+#   code: https://github.com/whitemech/DeepDFA
+#   bibtex: "@inproceedings{UmiliDeepDFA,
+#   author       = {Elena Umili and<br>
+#                   Roberto Capobianco},
+#   title        = {DeepDFA: Automata Learning through Neural Pr<br>obabilistic Relaxations},<br>
+#   booktitle    = {{ECAI} 2024 - 27th European Conference on Artificial Intelligence,<br>
+#                   19-24 October 2024, Santiago de Compostela, Spain - Including 13th<br>
+#                   Conference on Prestigious Applications of Intelligent Systems {(PAIS}<br>
+#                   2024)},<br>
+#   series       = {Frontiers in Artificial Intelligence and Applications},<br>
+#   volume       = {392},<br>
+#   pages        = {1051--1058},<br>
+#   publisher    = {{IOS} Press},<br>
+#   year         = {2024},<br>
+#   url          = {https://doi.org/10.3233/FAIA240596},<br>
+#   doi          = {10.3233/FAIA240596},<br>
+#   timestamp    = {Fri, 25 Oct 2024 12:13:46 +0200},<br>
+#   biburl       = {https://dblp.org/rec/conf/ecai/UmiliC24.bib},<br>
+#   bibsource    = {dblp computer science bibliography, https://dblp.org}<br>
+# }"
 
-- title: "Towards a fuller understanding of neurons with Clustered Compositional Explanations"
-  authors:  Biagio La Rosa, Leilani Gilpin, and Roberto Capobianco
-  year: 2023
-  publisher: NeurIPS 2023
-  link:
-    url:  https://openreview.net/forum?id=51PLYhMFWz
-    display: Paper
-  code: https://github.com/krlgroup/clustered-compositional-explanations
-  bibtex: "@inproceedings{
-    LaRosa2023Towards,<br>
-    title={Towards a fuller understanding of neurons with Clustered Compositional Explanations},<br>
-    author={Biagio La Rosa and Leilani H. Gilpin and Roberto Capobianco},<br>
-    booktitle={Thirty-seventh Conference on Neural Information Processing Systems},<br>
-    year={2023}<br>
-    }"
+# - title: "Towards a fuller understanding of neurons with Clustered Compositional Explanations"
+#   authors:  Biagio La Rosa, Leilani Gilpin, and Roberto Capobianco
+#   year: 2023
+#   publisher: NeurIPS 2023
+#   link:
+#     url:  https://openreview.net/forum?id=51PLYhMFWz
+#     display: Paper
+#   code: https://github.com/krlgroup/clustered-compositional-explanations
+#   bibtex: "@inproceedings{
+#     LaRosa2023Towards,<br>
+#     title={Towards a fuller understanding of neurons with Clustered Compositional Explanations},<br>
+#     author={Biagio La Rosa and Leilani H. Gilpin and Roberto Capobianco},<br>
+#     booktitle={Thirty-seventh Conference on Neural Information Processing Systems},<br>
+#     year={2023}<br>
+#     }"
 
-- title: "Oxidative DNA damage preventive activity of essential oils of three Pinus species: P. mugo, P. sibirica, and P. silvestre"
-  authors:  Sanja Matić, Tamara Mladenović, Milan Mladenović, Nevena Tomašević, Roberto Capobianco, Alessio Ragno, Filippo U. Sapienza, Roberta Astolfi, Rino Ragno
-  year: 2023
-  publisher: 2nd International Conference on Chemo and Bioinformatics
-  link:
-    url:   https://scidar.kg.ac.rs/bitstream/123456789/19169/1/2nd-ICCBIKG-Prooceedings%2c%20Pinus%20species.pdf
-    display: Paper
-  code: 
-  bibtex: "@InProceedings{Matic2023,<br>
-  author     = {Matić, Sanja Lj. and Mladenović, Tamara M. and Mladenović, Milan P. and Tomašević, Nevena M. and Capobianco, Roberto and Ragno, Alessio and Sapienza, Filippo U. and Astolfi, Roberta and Ragno, Rino},<br>
-  booktitle  = {Book of Proceedings},<br>
-  title      = {Oxidative DNA damage preventive activity of essential oils of three Pinus species: P. mugo, P. sibirica, and P. silvestre},<br>
-  year       = {2023},<br>
-  publisher  = {Institute for Information Technologies, University of Kragujevac},<br>
-  series     = {ICCBIKG 2023},<br>
-  collection = {ICCBIKG 2023},<br>
-  doi        = {10.46793/iccbi23.321m},<br>
-}"
+# - title: "Oxidative DNA damage preventive activity of essential oils of three Pinus species: P. mugo, P. sibirica, and P. silvestre"
+#   authors:  Sanja Matić, Tamara Mladenović, Milan Mladenović, Nevena Tomašević, Roberto Capobianco, Alessio Ragno, Filippo U. Sapienza, Roberta Astolfi, Rino Ragno
+#   year: 2023
+#   publisher: 2nd International Conference on Chemo and Bioinformatics
+#   link:
+#     url:   https://scidar.kg.ac.rs/bitstream/123456789/19169/1/2nd-ICCBIKG-Prooceedings%2c%20Pinus%20species.pdf
+#     display: Paper
+#   code: 
+#   bibtex: "@InProceedings{Matic2023,<br>
+#   author     = {Matić, Sanja Lj. and Mladenović, Tamara M. and Mladenović, Milan P. and Tomašević, Nevena M. and Capobianco, Roberto and Ragno, Alessio and Sapienza, Filippo U. and Astolfi, Roberta and Ragno, Rino},<br>
+#   booktitle  = {Book of Proceedings},<br>
+#   title      = {Oxidative DNA damage preventive activity of essential oils of three Pinus species: P. mugo, P. sibirica, and P. silvestre},<br>
+#   year       = {2023},<br>
+#   publisher  = {Institute for Information Technologies, University of Kragujevac},<br>
+#   series     = {ICCBIKG 2023},<br>
+#   collection = {ICCBIKG 2023},<br>
+#   doi        = {10.46793/iccbi23.321m},<br>
+# }"
 
-- title: "Memory Replay For Continual Learning With Spiking Neural Networks"
-  authors:  Michela Proietti, Alessio Ragno, and Roberto Capobianco
-  year: 2023
-  publisher: 33rd International Workshop on Machine Learning for Signal Processing (MLSP)
-  link:
-    url:   https://ieeexplore.ieee.org/abstract/document/10285911
-    display: Paper
-  code: 
-  bibtex: "@InProceedings{Proietti2023,<br>
-  author    = {Proietti, Michela and Ragno, Alessio and Capobianco, Roberto},<br>
-  booktitle = {2023 IEEE 33rd International Workshop on Machine Learning for Signal Processing (MLSP)},<br>
-  title     = {Memory Replay For Continual Learning With Spiking Neural Networks},<br>
-  year      = {2023},<br>
-  month     = sep,<br>
-  publisher = {IEEE},<br>
-  doi       = {10.1109/mlsp55844.2023.10285911},<br>
-}"
+# - title: "Memory Replay For Continual Learning With Spiking Neural Networks"
+#   authors:  Michela Proietti, Alessio Ragno, and Roberto Capobianco
+#   year: 2023
+#   publisher: 33rd International Workshop on Machine Learning for Signal Processing (MLSP)
+#   link:
+#     url:   https://ieeexplore.ieee.org/abstract/document/10285911
+#     display: Paper
+#   code: 
+#   bibtex: "@InProceedings{Proietti2023,<br>
+#   author    = {Proietti, Michela and Ragno, Alessio and Capobianco, Roberto},<br>
+#   booktitle = {2023 IEEE 33rd International Workshop on Machine Learning for Signal Processing (MLSP)},<br>
+#   title     = {Memory Replay For Continual Learning With Spiking Neural Networks},<br>
+#   year      = {2023},<br>
+#   month     = sep,<br>
+#   publisher = {IEEE},<br>
+#   doi       = {10.1109/mlsp55844.2023.10285911},<br>
+# }"
 
-- title: "The State of The Art of Visual Analytics for eXplainable Deep Learning"
-  authors:  Biagio La Rosa, Graziano Blasilli, Romain Bourqui, David Auber, Giuseppe Santucci, Roberto Capobianco, Enrico Bertini, Romain Giot, and Marco Angelini
-  year: 2023
-  publisher: Computer Graphic Forum (Journal)
-  link:
-    url:   https://onlinelibrary.wiley.com/doi/10.1111/cgf.14733
-    display: Paper
-  code: 
-  bibtex: "@Article{LaRosa2023,<br>
-  author    = {{La Rosa}, B. and Blasilli, G. and Bourqui, R. and Auber, D. and Santucci, G. and Capobianco, R. and Bertini, E. and Giot, R. and Angelini, M.},
-  journal   = {Computer Graphics Forum},<br>
-  title     = {State of the Art of Visual Analytics for eXplainable Deep Learning},<br>
-  year      = {2023},<br>
-  issn      = {1467-8659},<br>
-  month     = feb,<br>
-  number    = {1},<br>
-  pages     = {319--355},<br>
-  volume    = {42},<br>
-  doi       = {10.1111/cgf.14733},<br>
-  publisher = {Wiley},<br>
-}"
+# - title: "The State of The Art of Visual Analytics for eXplainable Deep Learning"
+#   authors:  Biagio La Rosa, Graziano Blasilli, Romain Bourqui, David Auber, Giuseppe Santucci, Roberto Capobianco, Enrico Bertini, Romain Giot, and Marco Angelini
+#   year: 2023
+#   publisher: Computer Graphic Forum (Journal)
+#   link:
+#     url:   https://onlinelibrary.wiley.com/doi/10.1111/cgf.14733
+#     display: Paper
+#   code: 
+#   bibtex: "@Article{LaRosa2023,<br>
+#   author    = {{La Rosa}, B. and Blasilli, G. and Bourqui, R. and Auber, D. and Santucci, G. and Capobianco, R. and Bertini, E. and Giot, R. and Angelini, M.},
+#   journal   = {Computer Graphics Forum},<br>
+#   title     = {State of the Art of Visual Analytics for eXplainable Deep Learning},<br>
+#   year      = {2023},<br>
+#   issn      = {1467-8659},<br>
+#   month     = feb,<br>
+#   number    = {1},<br>
+#   pages     = {319--355},<br>
+#   volume    = {42},<br>
+#   doi       = {10.1111/cgf.14733},<br>
+#   publisher = {Wiley},<br>
+# }"
 
-- title: "Explainable AI in drug discovery: self-interpretable graph neural network for molecular property prediction using concept whitening"
-  authors:  Michela Proietti, Alessio Ragno, Biagio La Rosa, Rino Ragno, and Roberto Capobianco
-  year: 2023
-  publisher: Machine Learning (Journal)
-  link:
-    url:   https://link.springer.com/article/10.1007/s10994-023-06369-y
-    display: Paper
-  code: https://github.com/KRLGroup/GraphCWN
-  highlight: 1
-  description: The paper proposes the first concept-based explainability method for graph neural networks, by adapting the concept whitening module to work with graph data, and provides a way to build interpretable quantitative structure-activity relationship models for drug discovery.
-  image: drugdiscovery.png
-  bibtex: "@Article{Proietti2023,<br>
-  author    = {Michela Proietti and Alessio Ragno and Biagio La Rosa and Rino Ragno and Roberto Capobianco},<br>
-  journal   = {Machine Learning},<br>
-  title     = {Explainable {AI} in drug discovery: self-interpretable graph neural network for molecular property prediction using concept whitening},<br>
-  year      = {2023},<br>
-  month     = {oct},<br>
-  doi       = {10.1007/s10994-023-06369-y},<br>
-  publisher = {Springer Science and Business Media {LLC}},<br>
-}"
-
-
-- title: "Grounding LTLf Specifications in Image Sequences"
-  authors:  Elena Umili, Roberto Capobianco and Giuseppe De Giacomo
-  year: 2023
-  publisher: 20th International Conference on Principles of Knowledge Representation and Reasoning (KR 2023)
-  link:
-    url:   https://proceedings.kr.org/2023/65/
-    display: Paper
-  code: https://github.com/whitemech/grounding_LTLf_in_image_sequences
-  bibtex: "@inproceedings{Umili2023Grounding,<br>
-    title     = {{Grounding LTLf Specifications in Image Sequences}},<br>
-    author    = {Umili, Elena and Capobianco, Roberto and De Giacomo, Giuseppe},<br>
-    booktitle = {{Proceedings of the 20th International Conference on Principles of Knowledge Representation and Reasoning}},<br>
-    pages     = {668--678},<br>
-    year      = {2023},<br>
-    month     = {8},<br>
-    doi       = {10.24963/kr.2023/65},<br>
-    url       = {https://doi.org/10.24963/kr.2023/65},<br>
-  }"
-
-- title: "Neurosymbolic Integration of Linear Temporal Logic in Non Symbolic Domains"
-  authors:  Elena Umili
-  year: 2023
-  publisher: 20th European Conference of Multi-Agents Systems (EUMAS 2023)
-  link:
-    url:  https://link.springer.com/chapter/10.1007/978-3-031-43264-4_41
-    display: Paper
-  code: 
-  bibtex: "@InProceedings{Umili2023Neurosymbolic,<br>
-    author={Umili, Elena},<br>
-    editor={Malvone, Vadim and Murano, Aniello},<br>
-    title={Neurosymbolic Integration of Linear Temporal Logic in Non Symbolic Domains},<br>
-    booktitle={Multi-Agent Systems},<br>
-    year={2023},<br>
-    publisher={Springer Nature Switzerland},<br>
-    address={Cham},<br>
-    pages={521--527},<br>
-    isbn={978-3-031-43264-4}
-}"
-
-- title: "Deep Reinforcement Learning for Pin-Point Autonomous Lunar Landing: Trajectory Recalculation for Obstacle Avoidance"
-  authors:  Giulia Ciabatti, Dario Spiller, Shreyansh Daftry, Roberto Capobianco, and Fabio Curti
-  year: 2023
-  publisher: 1st International Workshop on The use of Artificial Intelligence for Space Applications
-  link:
-    url:  https://link.springer.com/chapter/10.1007/978-3-031-25755-1_7
-    display: Paper
-  code: 
-  bibtex: "@InProceedings{Ciabatti2023,<br>
-author={Ciabatti, Giulia
-and Spiller, Dario
-and Daftry, Shreyansh
-and Capobianco, Roberto
-and Curti, Fabio},
-editor={Ieracitano, Cosimo
-and Mammone, Nadia
-and Di Clemente, Marco
-and Mahmud, Mufti
-and Furfaro, Roberto
-and Morabito, Francesco Carlo},<br>
-title={Deep Reinforcement Learning for Pin-Point Autonomous Lunar Landing: Trajectory Recalculation for Obstacle Avoidance},<br>
-booktitle={The Use of Artificial Intelligence for Space Applications},<br>
-year={2023},<br>
-publisher={Springer Nature Switzerland},<br>
-address={Cham},<br>
-pages={101--115},<br>
-isbn={978-3-031-25755-1}
-}
-"
-
-- title: "Visual Reward Machines"
-  authors:  Elena Umili, Francesco Argenziano, Aymeric Barbin and Roberto Capobianco
-  year: 2023
-  publisher: 17th International Workshop on Neural-Symbolic Learning and Reasoning
-  link:
-    url:  https://ceur-ws.org/Vol-3432/paper23.pdf
-    display: Paper
-  code: https://github.com/whitemech/VisualRewardMachine
-  bibtex: "@inproceedings{DBLP:conf/nesy/UmiliABC23,<br>
-  author       = {Elena Umili and
-                  Francesco Argenziano and
-                  Aymeric Barbin and
-                  Roberto Capobianco},<br>
-  title        = {Visual Reward Machines},<br>
-  booktitle    = {Proceedings of the 17th International Workshop on Neural-Symbolic
-                  Learning and Reasoning, La Certosa di Pontignano, Siena, Italy, July
-                  3-5, 2023},<br>
-  pages        = {255--267},<br>
-  year         = {2023},<br>
-  crossref     = {DBLP:conf/nesy/2023},<br>
-  url          = {https://ceur-ws.org/Vol-3432/paper23.pdf},<br>
-  timestamp    = {Tue, 11 Jul 2023 17:14:10 +0200},<br>
-  biburl       = {https://dblp.org/rec/conf/nesy/UmiliABC23.bib},<br>
-  bibsource    = {dblp computer science bibliography, https://dblp.org}
-}
-"
-
-- title: "An Overview of Environmental Features that Impact Deep Reinforcement Learning in Sparse-Reward Domains"
-  authors:  Jim Martin Catacora Ocana, Roberto Capobianco, and Daniele Nardi
-  year: 2023
-  publisher: Journal of Artificial Intelligence Research (JAIR)
-  link:
-    url:  https://jair.org/index.php/jair/article/view/14390/26919
-    display: Paper
-  code: 
-  bibtex: "@Article{Ocana2023,<br>
-  author    = {Jim Martin Catacora Ocana and Roberto Capobianco and Daniele Nardi},<br>
-  journal   = {Journal of Artificial Intelligence Research},<br>
-  title     = {An Overview of Environmental Features that Impact Deep Reinforcement Learning in Sparse-Reward Domains},<br>
-  year      = {2023},<br>
-  month     = {apr},<br>
-  pages     = {1181--1218},<br>
-  volume    = {76},<br>
-  doi       = {10.1613/jair.1.14390},<br>
-  publisher = {{AI} Access Foundation},<br>
-}
-"
-
-- title: "A Moon Optical Navigation Robot Facility on Simulated Terrain: MONSTER"
-  authors:  Francesco Latorre, Andrea Carbone, Sarathchandrakumar Thottuchirayil Sasidharan, Giulia Ciabatti,Dario Spiller, Fabio Curti, and RobertoCapobianco 
-  year: 2022
-  publisher: 2022 AAS/AIAA Astrodynamics Specialist Conference 
-  link:
-    url:  https://www.researchgate.net/publication/363263356_A_MOON_OPTICAL_NAVIGATION_ROBOTIC_FACILITY_ON_SIMULATED_TERRAIN_MONSTER
-    display: Paper
-  code: 
-  bibtex: "@inproceedings{Latorre2022,
-author = {Latorre, Francesco and Carbone, Andrea and Thottuchirayil Sasidharan, Sarathchandrakumar and Ciabatti, Giulia and Spiller, Dario and Curti, Fabio and Capobianco, Roberto},
-year = {2022},
-month = {09},
-pages = {},
-title = {A MOON OPTICAL NAVIGATION ROBOTIC FACILITY ON SIMULATED TERRAIN: MONSTER}
-}
-"
-
-- title: "Planetary Environment Prediction Using Generative Modeling"
-  authors:  Shrijit Singh, Shreyansh Daftry and Roberto Capobianco
-  year: 2022
-  publisher: AIAA SCITECH 2022 Forum 
-  link:
-    url:  https://arc.aiaa.org/doi/abs/10.2514/6.2022-2085
-    display: Paper
-  code: 
-  bibtex: "@InProceedings{Singh2022,<br>
-  author    = {Shrijit Singh and Shreyansh Daftry and Roberto Capobianco},<br>
-  booktitle = {{AIAA} {SCITECH} 2022 Forum},<br>
-  title     = {Planetary Environment Prediction Using Generative Modeling},<br>
-  year      = {2022},<br>
-  month     = {jan},<br>
-  publisher = {American Institute of Aeronautics and Astronautics},<br>
-  doi       = {10.2514/6.2022-2085},<br>
-}
-"
-- title: "Outracing champion Gran Turismo drivers with deep reinforcement learning"
-  authors:  Peter R Wurman, Samuel Barrett, Kenta Kawamoto, James MacGlashan, Kaushik Subramanian, Thomas J Walsh, Roberto Capobianco, Alisa Devlic, Franziska Eckert, Florian Fuchs, Leilani Gilpin, Piyush Khandelwal, Varun Kompella, HaoChih Lin, Patrick MacAlpine, Declan Oller, Takuma Seno, Craig Sherstan, Michael D Thomure, Houmehr Aghabozorgi, Leon Barrett, Rory Douglas, Dion Whitehead, Peter Dürr, Peter Stone, Michael Spranger, and Hiroaki Kitano
-  year: 2022
-  publisher: Nature 
-  link:
-    url:  https://www.nature.com/articles/s41586-021-04357-7
-    display: Paper
-  code: 
-  highlight: 1
-  description: The paper presents GT Sophy, which is the world's first AI agent to outrace the world's top players in Gran Turismo Sport,  utilizing a novel deep reinforcement learning platform and demonstrating the power of AI to deliver new gaming and entertainment experiences.
-  image: sophy.jpeg
-  bibtex: "@Article{Wurman2022,<br>
-  author    = {Peter R. Wurman and Samuel Barrett and Kenta Kawamoto and James MacGlashan and Kaushik Subramanian and Thomas J. Walsh and Roberto Capobianco and Alisa Devlic and Franziska Eckert and Florian Fuchs and Leilani Gilpin and Piyush Khandelwal and Varun Kompella and HaoChih Lin and Patrick MacAlpine and Declan Oller and Takuma Seno and Craig Sherstan and Michael D. Thomure and Houmehr Aghabozorgi and Leon Barrett and Rory Douglas and Dion Whitehead and Peter Dürr and Peter Stone and Michael Spranger and Hiroaki Kitano},<br>
-  journal   = {Nature},<br>
-  title     = {Outracing champion Gran Turismo drivers with deep reinforcement learning},<br>
-  year      = {2022},<br>
-  month     = {feb},<br>
-  number    = {7896},<br>
-  pages     = {223--228},<br>
-  volume    = {602},<br>
-  doi       = {10.1038/s41586-021-04357-7},<br>
-  publisher = {Springer Science and Business Media {LLC}},
-}
-"
-
-- title: "Ligand-based and structure-based studies to develop predictive models for SARS-CoV-2 main protease inhibitors through the 3d-qsar. com portal"
-  authors:  Eleonora Proia, Alessio Ragno, Lorenzo Antonini, Manuela Sabatino, Milan Mladenovič, Roberto Capobianco, and Rino Ragno
-  year: 2022
-  publisher: Journal of Computer-Aided Molecular Design 
-  link:
-    url:  https://link.springer.com/article/10.1007/s10822-022-00460-7
-    display: Paper
-  code: 
-  bibtex: "@Article{Proia2022,<br>
-  author    = {Eleonora Proia and Alessio Ragno and Lorenzo Antonini and Manuela Sabatino and Milan Mladenovi{\v{c}} and Roberto Capobianco and Rino Ragno},<br>
-  journal   = {Journal of Computer-Aided Molecular Design},<br>
-  title     = {Ligand-based and structure-based studies to develop predictive models for {SARS}-{CoV}-2 main protease inhibitors through the 3d-qsar.com portal},<br>
-  year      = {2022},<br>
-  month     = {jun},<br>
-  number    = {7},<br>
-  pages     = {483--505},<br>
-  volume    = {36},<br>
-  doi       = {10.1007/s10822-022-00460-7},<br>
-  publisher = {Springer Science and Business Media {LLC}},
-}"
-
-- title: "Prototype-based Interpretable Graph Neural Networks"
-  authors:  Alessio Ragno, Biagio La Rosa, and Roberto Capobianco 
-  year: 2022
-  publisher: IEEE Transactions on Artificial Intelligence (Journal)
-  link:
-    url:  https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9953541
-    display: Paper
-  code: https://github.com/KRLGroup/PrototypeGNN
-  bibtex: "@Article{Ragno2022,<br>
-  author={Ragno, Alessio and La Rosa, Biagio and Capobianco, Roberto},<br>
-  journal={IEEE Transactions on Artificial Intelligence}, <br>
-  title={Prototype-based Interpretable Graph Neural Networks}, <br>
-  year={2022},<br>
-  volume={},<br>
-  number={},<br>
-  pages={1-11},<br>
-  doi={10.1109/TAI.2022.3222618}<br>
-}"
-
-- title: "Grounding LTLf Specifications in Images"
-  authors:  Elena Umili, Roberto Capobianco and Giuseppe De Giacomo  
-  year: 2022
-  publisher: Workshop on Neural-Symbolic Learning and Reasoning
-  link:
-    url:  https://ceur-ws.org/Vol-3212/paper4.pdf
-    display: Paper
-  code: https://github.com/whitemech/grounding_LTLf_in_image_sequences
-  bibtex: "@inproceedings{umili2022,<br>
-    author = {Elena Umili and
-              Roberto Capobianco and
-              Giuseppe {De Giacomo}},<br>
-    title = {Grounding LTLf Specifications in Images},<br>
-    booktitle = {16th International Workshop on Neural-Symbolic Learning and Reasoning},<br>
-    year = {2022},
-}"
+# - title: "Explainable AI in drug discovery: self-interpretable graph neural network for molecular property prediction using concept whitening"
+#   authors:  Michela Proietti, Alessio Ragno, Biagio La Rosa, Rino Ragno, and Roberto Capobianco
+#   year: 2023
+#   publisher: Machine Learning (Journal)
+#   link:
+#     url:   https://link.springer.com/article/10.1007/s10994-023-06369-y
+#     display: Paper
+#   code: https://github.com/KRLGroup/GraphCWN
+#   highlight: 1
+#   description: The paper proposes the first concept-based explainability method for graph neural networks, by adapting the concept whitening module to work with graph data, and provides a way to build interpretable quantitative structure-activity relationship models for drug discovery.
+#   image: drugdiscovery.png
+#   bibtex: "@Article{Proietti2023,<br>
+#   author    = {Michela Proietti and Alessio Ragno and Biagio La Rosa and Rino Ragno and Roberto Capobianco},<br>
+#   journal   = {Machine Learning},<br>
+#   title     = {Explainable {AI} in drug discovery: self-interpretable graph neural network for molecular property prediction using concept whitening},<br>
+#   year      = {2023},<br>
+#   month     = {oct},<br>
+#   doi       = {10.1007/s10994-023-06369-y},<br>
+#   publisher = {Springer Science and Business Media {LLC}},<br>
+# }"
 
 
-- title: "A self-interpretable module for deep image classification on small data"
-  authors:  Biagio La Rosa, Roberto Capobianco and Daniele Nardi   
-  year: 2022
-  publisher: Applied Intelligence (Journal)
-  link:
-    url:  https://link.springer.com/epdf/10.1007/s10489-022-03886-6?sharing_token=IbnCBpQpy2y8PL3Xg10Vvfe4RwlQNchNByi7wbcMAY4Me8Zu3105HXl_XR2RAkkAvNFDIhoith_EY8W71XD2POKCPziEd89auTyF6H1l5Qsy-717BfquEzEKSfda5E8chg_MF9jtfUR0W9iX6ytCPT89G9rOqK1nzU1WNW2jRq0=
-    display: Paper
-  code: https://github.com/KRLGroup/memory-wrap
-  bibtex: "@Article{LaRosa2022,<br>
-  author    = {Biagio La Rosa and Roberto Capobianco and Daniele Nardi},<br>
-  journal   = {Applied Intelligence},<br>
-  title     = {A self-interpretable module for deep image classification on small data},<br>
-  year      = {2022},<br>
-  month     = {aug},<br>
-  doi       = {10.1007/s10489-022-03886-6},<br>
-  publisher = {Springer Science and Business Media {LLC}},<br>
-}"
+# - title: "Grounding LTLf Specifications in Image Sequences"
+#   authors:  Elena Umili, Roberto Capobianco and Giuseppe De Giacomo
+#   year: 2023
+#   publisher: 20th International Conference on Principles of Knowledge Representation and Reasoning (KR 2023)
+#   link:
+#     url:   https://proceedings.kr.org/2023/65/
+#     display: Paper
+#   code: https://github.com/whitemech/grounding_LTLf_in_image_sequences
+#   bibtex: "@inproceedings{Umili2023Grounding,<br>
+#     title     = {{Grounding LTLf Specifications in Image Sequences}},<br>
+#     author    = {Umili, Elena and Capobianco, Roberto and De Giacomo, Giuseppe},<br>
+#     booktitle = {{Proceedings of the 20th International Conference on Principles of Knowledge Representation and Reasoning}},<br>
+#     pages     = {668--678},<br>
+#     year      = {2023},<br>
+#     month     = {8},<br>
+#     doi       = {10.24963/kr.2023/65},<br>
+#     url       = {https://doi.org/10.24963/kr.2023/65},<br>
+#   }"
 
-- title: "Molecule Generation from Input-Attributions over Graph Convolutional Networks"
-  authors:  Dylan Savoia, Alessio Ragno, Roberto Capobianco   
-  year: 2022
-  publisher: ELLIS Machine Learning for Molecules workshop (ML4Molecules)
-  link:
-    url:  https://cloud.ml.jku.at/s/28FsiTRKfjEdLMG
-    display: Paper
-  bibtex: "@Article{Savoia2022,<br>
-  author        = {Dylan Savoia and Alessio Ragno and Roberto Capobianco},<br>
-  journal       = {ELLIS Machine Learning for Molecules workshop (ML4Molecules) 2021},<br>
-  title         = {Molecule Generation from Input-Attributions over Graph Convolutional Networks},<br>
-  year          = {2022},<br>
-  month         = jan,<br>
-  abstract      = {It is well known that Drug Design is often a costly process both in terms of time and economic effort. While good Quantitative Structure-Activity Relationship models (QSAR) can help predicting molecular properties without the need to synthesize them, it is still required to come up with new molecules to be tested. This is mostly done in lack of tools to determine which modifications are more promising or which aspects of a molecule are more influential for the final activity/property. Here we present an automatic process which involves Graph Convolutional Network models and input-attribution methods to generate new molecules. We also explore the problems of over-optimization and applicability, recognizing them as two important aspects in the practical use of such automatic tools.},<br>
-  archiveprefix = {arXiv},<br>
-  eprint        = {2202.05703},<br>
-  keywords      = {q-bio.BM, cs.AI, cs.LG},<br>
-  primaryclass  = {q-bio.BM},<br>
-}"
+# - title: "Neurosymbolic Integration of Linear Temporal Logic in Non Symbolic Domains"
+#   authors:  Elena Umili
+#   year: 2023
+#   publisher: 20th European Conference of Multi-Agents Systems (EUMAS 2023)
+#   link:
+#     url:  https://link.springer.com/chapter/10.1007/978-3-031-43264-4_41
+#     display: Paper
+#   code: 
+#   bibtex: "@InProceedings{Umili2023Neurosymbolic,<br>
+#     author={Umili, Elena},<br>
+#     editor={Malvone, Vadim and Murano, Aniello},<br>
+#     title={Neurosymbolic Integration of Linear Temporal Logic in Non Symbolic Domains},<br>
+#     booktitle={Multi-Agent Systems},<br>
+#     year={2023},<br>
+#     publisher={Springer Nature Switzerland},<br>
+#     address={Cham},<br>
+#     pages={521--527},<br>
+#     isbn={978-3-031-43264-4}
+# }"
+
+# - title: "Deep Reinforcement Learning for Pin-Point Autonomous Lunar Landing: Trajectory Recalculation for Obstacle Avoidance"
+#   authors:  Giulia Ciabatti, Dario Spiller, Shreyansh Daftry, Roberto Capobianco, and Fabio Curti
+#   year: 2023
+#   publisher: 1st International Workshop on The use of Artificial Intelligence for Space Applications
+#   link:
+#     url:  https://link.springer.com/chapter/10.1007/978-3-031-25755-1_7
+#     display: Paper
+#   code: 
+#   bibtex: "@InProceedings{Ciabatti2023,<br>
+# author={Ciabatti, Giulia
+# and Spiller, Dario
+# and Daftry, Shreyansh
+# and Capobianco, Roberto
+# and Curti, Fabio},
+# editor={Ieracitano, Cosimo
+# and Mammone, Nadia
+# and Di Clemente, Marco
+# and Mahmud, Mufti
+# and Furfaro, Roberto
+# and Morabito, Francesco Carlo},<br>
+# title={Deep Reinforcement Learning for Pin-Point Autonomous Lunar Landing: Trajectory Recalculation for Obstacle Avoidance},<br>
+# booktitle={The Use of Artificial Intelligence for Space Applications},<br>
+# year={2023},<br>
+# publisher={Springer Nature Switzerland},<br>
+# address={Cham},<br>
+# pages={101--115},<br>
+# isbn={978-3-031-25755-1}
+# }
+# "
+
+# - title: "Visual Reward Machines"
+#   authors:  Elena Umili, Francesco Argenziano, Aymeric Barbin and Roberto Capobianco
+#   year: 2023
+#   publisher: 17th International Workshop on Neural-Symbolic Learning and Reasoning
+#   link:
+#     url:  https://ceur-ws.org/Vol-3432/paper23.pdf
+#     display: Paper
+#   code: https://github.com/whitemech/VisualRewardMachine
+#   bibtex: "@inproceedings{DBLP:conf/nesy/UmiliABC23,<br>
+#   author       = {Elena Umili and
+#                   Francesco Argenziano and
+#                   Aymeric Barbin and
+#                   Roberto Capobianco},<br>
+#   title        = {Visual Reward Machines},<br>
+#   booktitle    = {Proceedings of the 17th International Workshop on Neural-Symbolic
+#                   Learning and Reasoning, La Certosa di Pontignano, Siena, Italy, July
+#                   3-5, 2023},<br>
+#   pages        = {255--267},<br>
+#   year         = {2023},<br>
+#   crossref     = {DBLP:conf/nesy/2023},<br>
+#   url          = {https://ceur-ws.org/Vol-3432/paper23.pdf},<br>
+#   timestamp    = {Tue, 11 Jul 2023 17:14:10 +0200},<br>
+#   biburl       = {https://dblp.org/rec/conf/nesy/UmiliABC23.bib},<br>
+#   bibsource    = {dblp computer science bibliography, https://dblp.org}
+# }
+# "
+
+# - title: "An Overview of Environmental Features that Impact Deep Reinforcement Learning in Sparse-Reward Domains"
+#   authors:  Jim Martin Catacora Ocana, Roberto Capobianco, and Daniele Nardi
+#   year: 2023
+#   publisher: Journal of Artificial Intelligence Research (JAIR)
+#   link:
+#     url:  https://jair.org/index.php/jair/article/view/14390/26919
+#     display: Paper
+#   code: 
+#   bibtex: "@Article{Ocana2023,<br>
+#   author    = {Jim Martin Catacora Ocana and Roberto Capobianco and Daniele Nardi},<br>
+#   journal   = {Journal of Artificial Intelligence Research},<br>
+#   title     = {An Overview of Environmental Features that Impact Deep Reinforcement Learning in Sparse-Reward Domains},<br>
+#   year      = {2023},<br>
+#   month     = {apr},<br>
+#   pages     = {1181--1218},<br>
+#   volume    = {76},<br>
+#   doi       = {10.1613/jair.1.14390},<br>
+#   publisher = {{AI} Access Foundation},<br>
+# }
+# "
+
+# - title: "A Moon Optical Navigation Robot Facility on Simulated Terrain: MONSTER"
+#   authors:  Francesco Latorre, Andrea Carbone, Sarathchandrakumar Thottuchirayil Sasidharan, Giulia Ciabatti,Dario Spiller, Fabio Curti, and RobertoCapobianco 
+#   year: 2022
+#   publisher: 2022 AAS/AIAA Astrodynamics Specialist Conference 
+#   link:
+#     url:  https://www.researchgate.net/publication/363263356_A_MOON_OPTICAL_NAVIGATION_ROBOTIC_FACILITY_ON_SIMULATED_TERRAIN_MONSTER
+#     display: Paper
+#   code: 
+#   bibtex: "@inproceedings{Latorre2022,
+# author = {Latorre, Francesco and Carbone, Andrea and Thottuchirayil Sasidharan, Sarathchandrakumar and Ciabatti, Giulia and Spiller, Dario and Curti, Fabio and Capobianco, Roberto},
+# year = {2022},
+# month = {09},
+# pages = {},
+# title = {A MOON OPTICAL NAVIGATION ROBOTIC FACILITY ON SIMULATED TERRAIN: MONSTER}
+# }
+# "
+
+# - title: "Planetary Environment Prediction Using Generative Modeling"
+#   authors:  Shrijit Singh, Shreyansh Daftry and Roberto Capobianco
+#   year: 2022
+#   publisher: AIAA SCITECH 2022 Forum 
+#   link:
+#     url:  https://arc.aiaa.org/doi/abs/10.2514/6.2022-2085
+#     display: Paper
+#   code: 
+#   bibtex: "@InProceedings{Singh2022,<br>
+#   author    = {Shrijit Singh and Shreyansh Daftry and Roberto Capobianco},<br>
+#   booktitle = {{AIAA} {SCITECH} 2022 Forum},<br>
+#   title     = {Planetary Environment Prediction Using Generative Modeling},<br>
+#   year      = {2022},<br>
+#   month     = {jan},<br>
+#   publisher = {American Institute of Aeronautics and Astronautics},<br>
+#   doi       = {10.2514/6.2022-2085},<br>
+# }
+# "
+# - title: "Outracing champion Gran Turismo drivers with deep reinforcement learning"
+#   authors:  Peter R Wurman, Samuel Barrett, Kenta Kawamoto, James MacGlashan, Kaushik Subramanian, Thomas J Walsh, Roberto Capobianco, Alisa Devlic, Franziska Eckert, Florian Fuchs, Leilani Gilpin, Piyush Khandelwal, Varun Kompella, HaoChih Lin, Patrick MacAlpine, Declan Oller, Takuma Seno, Craig Sherstan, Michael D Thomure, Houmehr Aghabozorgi, Leon Barrett, Rory Douglas, Dion Whitehead, Peter Dürr, Peter Stone, Michael Spranger, and Hiroaki Kitano
+#   year: 2022
+#   publisher: Nature 
+#   link:
+#     url:  https://www.nature.com/articles/s41586-021-04357-7
+#     display: Paper
+#   code: 
+#   highlight: 1
+#   description: The paper presents GT Sophy, which is the world's first AI agent to outrace the world's top players in Gran Turismo Sport,  utilizing a novel deep reinforcement learning platform and demonstrating the power of AI to deliver new gaming and entertainment experiences.
+#   image: sophy.jpeg
+#   bibtex: "@Article{Wurman2022,<br>
+#   author    = {Peter R. Wurman and Samuel Barrett and Kenta Kawamoto and James MacGlashan and Kaushik Subramanian and Thomas J. Walsh and Roberto Capobianco and Alisa Devlic and Franziska Eckert and Florian Fuchs and Leilani Gilpin and Piyush Khandelwal and Varun Kompella and HaoChih Lin and Patrick MacAlpine and Declan Oller and Takuma Seno and Craig Sherstan and Michael D. Thomure and Houmehr Aghabozorgi and Leon Barrett and Rory Douglas and Dion Whitehead and Peter Dürr and Peter Stone and Michael Spranger and Hiroaki Kitano},<br>
+#   journal   = {Nature},<br>
+#   title     = {Outracing champion Gran Turismo drivers with deep reinforcement learning},<br>
+#   year      = {2022},<br>
+#   month     = {feb},<br>
+#   number    = {7896},<br>
+#   pages     = {223--228},<br>
+#   volume    = {602},<br>
+#   doi       = {10.1038/s41586-021-04357-7},<br>
+#   publisher = {Springer Science and Business Media {LLC}},
+# }
+# "
+
+# - title: "Ligand-based and structure-based studies to develop predictive models for SARS-CoV-2 main protease inhibitors through the 3d-qsar. com portal"
+#   authors:  Eleonora Proia, Alessio Ragno, Lorenzo Antonini, Manuela Sabatino, Milan Mladenovič, Roberto Capobianco, and Rino Ragno
+#   year: 2022
+#   publisher: Journal of Computer-Aided Molecular Design 
+#   link:
+#     url:  https://link.springer.com/article/10.1007/s10822-022-00460-7
+#     display: Paper
+#   code: 
+#   bibtex: "@Article{Proia2022,<br>
+#   author    = {Eleonora Proia and Alessio Ragno and Lorenzo Antonini and Manuela Sabatino and Milan Mladenovi{\v{c}} and Roberto Capobianco and Rino Ragno},<br>
+#   journal   = {Journal of Computer-Aided Molecular Design},<br>
+#   title     = {Ligand-based and structure-based studies to develop predictive models for {SARS}-{CoV}-2 main protease inhibitors through the 3d-qsar.com portal},<br>
+#   year      = {2022},<br>
+#   month     = {jun},<br>
+#   number    = {7},<br>
+#   pages     = {483--505},<br>
+#   volume    = {36},<br>
+#   doi       = {10.1007/s10822-022-00460-7},<br>
+#   publisher = {Springer Science and Business Media {LLC}},
+# }"
+
+# - title: "Prototype-based Interpretable Graph Neural Networks"
+#   authors:  Alessio Ragno, Biagio La Rosa, and Roberto Capobianco 
+#   year: 2022
+#   publisher: IEEE Transactions on Artificial Intelligence (Journal)
+#   link:
+#     url:  https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9953541
+#     display: Paper
+#   code: https://github.com/KRLGroup/PrototypeGNN
+#   bibtex: "@Article{Ragno2022,<br>
+#   author={Ragno, Alessio and La Rosa, Biagio and Capobianco, Roberto},<br>
+#   journal={IEEE Transactions on Artificial Intelligence}, <br>
+#   title={Prototype-based Interpretable Graph Neural Networks}, <br>
+#   year={2022},<br>
+#   volume={},<br>
+#   number={},<br>
+#   pages={1-11},<br>
+#   doi={10.1109/TAI.2022.3222618}<br>
+# }"
+
+# - title: "Grounding LTLf Specifications in Images"
+#   authors:  Elena Umili, Roberto Capobianco and Giuseppe De Giacomo  
+#   year: 2022
+#   publisher: Workshop on Neural-Symbolic Learning and Reasoning
+#   link:
+#     url:  https://ceur-ws.org/Vol-3212/paper4.pdf
+#     display: Paper
+#   code: https://github.com/whitemech/grounding_LTLf_in_image_sequences
+#   bibtex: "@inproceedings{umili2022,<br>
+#     author = {Elena Umili and
+#               Roberto Capobianco and
+#               Giuseppe {De Giacomo}},<br>
+#     title = {Grounding LTLf Specifications in Images},<br>
+#     booktitle = {16th International Workshop on Neural-Symbolic Learning and Reasoning},<br>
+#     year = {2022},
+# }"
 
 
-- title: "Semi-Supervised GCN for learning Molecular Structure-Activity Relationships"
-  authors: Alessio Ragno, Dylan Savoia, Roberto Capobianco   
-  year: 2022
-  publisher: ELLIS Machine Learning for Molecules workshop (ML4Molecules)
-  link:
-    url: https://cloud.ml.jku.at/s/rwj5fSNNcwsgA3d
-    display: Paper
-  bibtex: "@Article{Ragno2022,<br>
-  author        = {Alessio Ragno and Dylan Savoia and Roberto Capobianco},<br>
-  journal       = {ELLIS Machine Learning for Molecules workshop (ML4Molecules) 2021},<br>
-  title         = {Semi-Supervised GCN for learning Molecular Structure-Activity Relationships},<br>
-  year          = {2022},<br>
-  month         = jan,<br>
-  abstract      = {Since the introduction of artificial intelligence in medicinal chemistry, the necessity has emerged to analyse how molecular property variation is modulated by either single atoms or chemical groups. In this paper, we propose to train graph-to-graph neural network using semi-supervised learning for attributing structure-property relationships. As initial case studies we apply the method to solubility and molecular acidity while checking its consistency in comparison with known experimental chemical data. As final goal, our approach could represent a valuable tool to deal with problems such as activity cliffs, lead optimization and de-novo drug design.},<br>
-  archiveprefix = {arXiv},<br>
-  eprint        = {2202.05704},<br>
-  keywords      = {q-bio.BM, cs.AI, cs.LG},<br>
-  primaryclass  = {q-bio.BM},<br>
-}"
+# - title: "A self-interpretable module for deep image classification on small data"
+#   authors:  Biagio La Rosa, Roberto Capobianco and Daniele Nardi   
+#   year: 2022
+#   publisher: Applied Intelligence (Journal)
+#   link:
+#     url:  https://link.springer.com/epdf/10.1007/s10489-022-03886-6?sharing_token=IbnCBpQpy2y8PL3Xg10Vvfe4RwlQNchNByi7wbcMAY4Me8Zu3105HXl_XR2RAkkAvNFDIhoith_EY8W71XD2POKCPziEd89auTyF6H1l5Qsy-717BfquEzEKSfda5E8chg_MF9jtfUR0W9iX6ytCPT89G9rOqK1nzU1WNW2jRq0=
+#     display: Paper
+#   code: https://github.com/KRLGroup/memory-wrap
+#   bibtex: "@Article{LaRosa2022,<br>
+#   author    = {Biagio La Rosa and Roberto Capobianco and Daniele Nardi},<br>
+#   journal   = {Applied Intelligence},<br>
+#   title     = {A self-interpretable module for deep image classification on small data},<br>
+#   year      = {2022},<br>
+#   month     = {aug},<br>
+#   doi       = {10.1007/s10489-022-03886-6},<br>
+#   publisher = {Springer Science and Business Media {LLC}},<br>
+# }"
+
+# - title: "Molecule Generation from Input-Attributions over Graph Convolutional Networks"
+#   authors:  Dylan Savoia, Alessio Ragno, Roberto Capobianco   
+#   year: 2022
+#   publisher: ELLIS Machine Learning for Molecules workshop (ML4Molecules)
+#   link:
+#     url:  https://cloud.ml.jku.at/s/28FsiTRKfjEdLMG
+#     display: Paper
+#   bibtex: "@Article{Savoia2022,<br>
+#   author        = {Dylan Savoia and Alessio Ragno and Roberto Capobianco},<br>
+#   journal       = {ELLIS Machine Learning for Molecules workshop (ML4Molecules) 2021},<br>
+#   title         = {Molecule Generation from Input-Attributions over Graph Convolutional Networks},<br>
+#   year          = {2022},<br>
+#   month         = jan,<br>
+#   abstract      = {It is well known that Drug Design is often a costly process both in terms of time and economic effort. While good Quantitative Structure-Activity Relationship models (QSAR) can help predicting molecular properties without the need to synthesize them, it is still required to come up with new molecules to be tested. This is mostly done in lack of tools to determine which modifications are more promising or which aspects of a molecule are more influential for the final activity/property. Here we present an automatic process which involves Graph Convolutional Network models and input-attribution methods to generate new molecules. We also explore the problems of over-optimization and applicability, recognizing them as two important aspects in the practical use of such automatic tools.},<br>
+#   archiveprefix = {arXiv},<br>
+#   eprint        = {2202.05703},<br>
+#   keywords      = {q-bio.BM, cs.AI, cs.LG},<br>
+#   primaryclass  = {q-bio.BM},<br>
+# }"
 
 
-- title: "Exploration-Intensive Distractors: Two Environment Proposals and a Benchmarking"
-  authors: Jim Martin Catacora Ocaña, Roberto Capobianco and Daniele Nardi   
-  year: 2022
-  publisher: The 20th International Conference of the Italian Association for Artificial Intelligence (AIxIA 2021)
-  link:
-    url: https://link.springer.com/chapter/10.1007/978-3-031-08421-8_29
-    display: Paper
-  bibtex: "@InProceedings{Ocana2022,<br>
-  author={Ocana, Jim Martin Catacora and Capobianco, Roberto and Nardi, Daniele},<br>
-  editor={Bandini, Stefania and Gasparini, Francesca and Mascardi, Viviana and Palmonari, Matteo
-and Vizzari, Giuseppe},<br>
-  title={Exploration-Intensive Distractors: Two Environment Proposals and a Benchmarking},<br>
-  booktitle={AIxIA 2021 -- Advances in Artificial Intelligence},<br>
-  year={2022},<br>
-  publisher={Springer International Publishing},<br>
-  address={Cham},<br>
-  pages={413--428},<br>
-  isbn={978-3-031-08421-8},<br>
-}"
-
-- title: "Tafl-ES: Exploring Evolution Strategies for Asymmetrical Board Games"
-  authors: Roberto Gallotta and Roberto Capobianco  
-  year: 2022
-  publisher: The 20th International Conference of the Italian Association for Artificial Intelligence (AIxIA 2021)
-  link:
-    url: https://link.springer.com/chapter/10.1007/978-3-031-08421-8_4
-    display: Paper
-  bibtex: "@InProceedings{Gallotta2022,<br>
-  author={Gallotta, Roberto and Capobianco, Roberto}, <br>
-  editor={Bandini, Stefania and Gasparini, Francesca and Mascardi, Viviana
-and Palmonari, Matteo and Vizzari, Giuseppe},<br>
-  title={Tafl-ES: Exploring Evolution Strategies for Asymmetrical Board Games},<br>
-  booktitle={AIxIA 2021 -- Advances in Artificial Intelligence},<br>
-  year={2022},<br>
-  publisher={Springer International Publishing},<br>
-  address={Cham},<br>
-  pages={46--58},
-  isbn={978-3-031-08421-8},<br>
-}"
-
-- title: "Detection Accuracy for Evaluating Compositional Explanations of Units"
-  authors: Sayo M. Makinwa, Biagio La Rosa and Roberto Capobianco  
-  year: 2022
-  publisher: The 20th International Conference of the Italian Association for Artificial Intelligence (AIxIA 2021)
-  link:
-    url: https://link.springer.com/chapter/10.1007/978-3-031-08421-8_38
-    display: Paper
-  code: https://github.com/KRLGroup/detacc-compexp
-  bibtex: "@InProceedings{Makinwa2022,<br>
-author={Makinwa, Sayo M.
-and La Rosa, Biagio
-and Capobianco, Roberto},<br>
-editor={Bandini, Stefania
-and Gasparini, Francesca
-and Mascardi, Viviana
-and Palmonari, Matteo
-and Vizzari, Giuseppe},<br>
-title={Detection Accuracy for Evaluating Compositional Explanations of Units},<br>
-booktitle={AIxIA 2021 -- Advances in Artificial Intelligence},<br>
-year={2022},<br>
-publisher={Springer International Publishing},<br>
-address={Cham},<br>
-pages={550--563},<br>
-isbn={978-3-031-08421-8},<br>
-}"
-
-- title: "Learning a Symbolic Planning Domain through the Interaction with Continuous Environments"
-  authors:  Elena Umili, Emanuele Antonioni, Francesco Riccio, Roberto Capobianco, Daniele Nardi and Giuseppe De Giacomo
-  year: 2021
-  publisher: Workshop on Bridging the Gap Between AI Planning and Reinforcement Learning ({PRL})
-  link:
-    url:   https://prl-theworkshop.github.io/prl2021/papers/PRL2021_paper_39.pdf
-    display: Paper
-  bibtex: "@inproceedings{umili2021,<br>
-    author = {Elena Umili and
-              Emanuele Antonioni and
-              Francesco Riccio and<br>
-              Roberto Capobianco and
-              Daniele Nardi and
-              Giuseppe {De Giacomo}},<br>
-    title = {Learning a Symbolic Planning Domain through the Interaction with Continuous Environments},<br>
-    booktitle = {Workshop on Bridging the Gap Between AI Planning and Reinforcement Learning ({PRL})},<br>
-    year = {2021},<br>
-}"
-
-- title: "A Discussion about Explainable Inference on Sequential Data via Memory-Tracking"
-  image: memoryexp.png
-  authors: Biagio La Rosa, Roberto Capobianco and Daniele Nardi
-  year: 2021
-  publisher: The 20th International Conference of the Italian Association for Artificial Intelligence (AIxIA 2021)
-  link:
-    url: http://ceur-ws.org/Vol-3078/paper-24.pdf
-    display:  Paper
-  bibtex: "@inproceedings{LaRosa2021,<br>
-  title     = {A Discussion about Explainable Inference on Sequential Data via Memory-Tracking},<br>
-  author    = {La Rosa, Biagio and Capobianco, Roberto and Nardi, Daniele},
-  booktitle = {AIxIA 2021 Discussion Papers},<br>
-  publisher = {CEUR Workshop Proceedings},  <br>           
-  volume     = {3078},<br>
-  pages     = {33-44},<br>
-  year      = {2021},<br>
-  url       = {http://ceur-ws.org/Vol-3078/paper-24.pdf},
-}"
+# - title: "Semi-Supervised GCN for learning Molecular Structure-Activity Relationships"
+#   authors: Alessio Ragno, Dylan Savoia, Roberto Capobianco   
+#   year: 2022
+#   publisher: ELLIS Machine Learning for Molecules workshop (ML4Molecules)
+#   link:
+#     url: https://cloud.ml.jku.at/s/rwj5fSNNcwsgA3d
+#     display: Paper
+#   bibtex: "@Article{Ragno2022,<br>
+#   author        = {Alessio Ragno and Dylan Savoia and Roberto Capobianco},<br>
+#   journal       = {ELLIS Machine Learning for Molecules workshop (ML4Molecules) 2021},<br>
+#   title         = {Semi-Supervised GCN for learning Molecular Structure-Activity Relationships},<br>
+#   year          = {2022},<br>
+#   month         = jan,<br>
+#   abstract      = {Since the introduction of artificial intelligence in medicinal chemistry, the necessity has emerged to analyse how molecular property variation is modulated by either single atoms or chemical groups. In this paper, we propose to train graph-to-graph neural network using semi-supervised learning for attributing structure-property relationships. As initial case studies we apply the method to solubility and molecular acidity while checking its consistency in comparison with known experimental chemical data. As final goal, our approach could represent a valuable tool to deal with problems such as activity cliffs, lead optimization and de-novo drug design.},<br>
+#   archiveprefix = {arXiv},<br>
+#   eprint        = {2202.05704},<br>
+#   keywords      = {q-bio.BM, cs.AI, cs.LG},<br>
+#   primaryclass  = {q-bio.BM},<br>
+# }"
 
 
-- title: "Agent-Based Markov Modeling for Improved COVID-19 Mitigation Policies"
-  authors: Roberto Capobianco, Varun Kompella, James Ault, Guni Sharon, Stacy Jong, Spencer Fox, Lauren Meyers, Peter R. Wurman and Peter Stone
-  year: 2021
-  publisher: Journal of Artificial Intelligence Research (JAIR)
-  link:
-    url: https://jair.org/index.php/jair/article/view/12632
-    display:  Paper
-  bibtex: "@inproceedings{capobianco2021covid,<br>
- title={Agent-Based {M}arkov Modeling for Improved {COVID}-19 Mitigation Policies},<br>
- author={Roberto Capobianco and Varun Kompella and James Ault and Guni Sharon and Stacy Jong and
-Spencer Fox and Lauren Meyers and Peter R. Wurman and Peter Stone},<br>
- month = {August},<br>
- year={2021},<br>
- pages = {953--992},<br>
- Journal = {Journal of Artificial Intelligence Research (JAIR)},<br>
- Volume = {71},<br>
- Publisher = {Association for the Advancement of Artificial Intelligence}<br>
-}"
+# - title: "Exploration-Intensive Distractors: Two Environment Proposals and a Benchmarking"
+#   authors: Jim Martin Catacora Ocaña, Roberto Capobianco and Daniele Nardi   
+#   year: 2022
+#   publisher: The 20th International Conference of the Italian Association for Artificial Intelligence (AIxIA 2021)
+#   link:
+#     url: https://link.springer.com/chapter/10.1007/978-3-031-08421-8_29
+#     display: Paper
+#   bibtex: "@InProceedings{Ocana2022,<br>
+#   author={Ocana, Jim Martin Catacora and Capobianco, Roberto and Nardi, Daniele},<br>
+#   editor={Bandini, Stefania and Gasparini, Francesca and Mascardi, Viviana and Palmonari, Matteo
+# and Vizzari, Giuseppe},<br>
+#   title={Exploration-Intensive Distractors: Two Environment Proposals and a Benchmarking},<br>
+#   booktitle={AIxIA 2021 -- Advances in Artificial Intelligence},<br>
+#   year={2022},<br>
+#   publisher={Springer International Publishing},<br>
+#   address={Cham},<br>
+#   pages={413--428},<br>
+#   isbn={978-3-031-08421-8},<br>
+# }"
 
-- title: "Learning Transferable Policies for Autonomous Planetary Landing via Deep Reinforcement Learning"
-  authors: Giulia Ciabatti, Roberto Capobianco, Shreyansh Daftry
-  year: 2021
-  publisher: Ascend, AIAA
-  link:
-    url: https://arc.aiaa.org/doi/abs/10.2514/6.2021-4006
-    display:  Paper
-  bibtex: "@InProceedings{Ciabatti2021,
-  author    = {Giulia Ciabatti and Shreyansh Daftry and Roberto Capobianco},
-  booktitle = {{ASCEND} 2021},
-  title     = {Learning Transferable Policies for Autonomous Planetary Landing via Deep Reinforcement Learning},
-  year      = {2021},
-  month     = {nov},
-  publisher = {American Institute of Aeronautics and Astronautics},
-  doi       = {10.2514/6.2021-4006},
-}"
+# - title: "Tafl-ES: Exploring Evolution Strategies for Asymmetrical Board Games"
+#   authors: Roberto Gallotta and Roberto Capobianco  
+#   year: 2022
+#   publisher: The 20th International Conference of the Italian Association for Artificial Intelligence (AIxIA 2021)
+#   link:
+#     url: https://link.springer.com/chapter/10.1007/978-3-031-08421-8_4
+#     display: Paper
+#   bibtex: "@InProceedings{Gallotta2022,<br>
+#   author={Gallotta, Roberto and Capobianco, Roberto}, <br>
+#   editor={Bandini, Stefania and Gasparini, Francesca and Mascardi, Viviana
+# and Palmonari, Matteo and Vizzari, Giuseppe},<br>
+#   title={Tafl-ES: Exploring Evolution Strategies for Asymmetrical Board Games},<br>
+#   booktitle={AIxIA 2021 -- Advances in Artificial Intelligence},<br>
+#   year={2022},<br>
+#   publisher={Springer International Publishing},<br>
+#   address={Cham},<br>
+#   pages={46--58},
+#   isbn={978-3-031-08421-8},<br>
+# }"
 
-- title: "Autonomous Planetary Landing via Deep Reinforcement Learning and Transfer Learning"
-  authors: Giulia Ciabatti, Shreyansh Daftry and Roberto Capobianco
-  year: 2021
-  publisher: AI4Space Workshop (CVPR 2021)
-  link:
-    url: https://openaccess.thecvf.com/content/CVPR2021W/AI4Space/html/Ciabatti_Autonomous_Planetary_Landing_via_Deep_Reinforcement_Learning_and_Transfer_Learning_CVPRW_2021_paper.html
-    display:  Paper
-  bibtex: "@InProceedings{Ciabatti_2021_CVPR,<br>
-  author = {Ciabatti, Giulia and Daftry, Shreyansh and Capobianco, Roberto},<br>
-   title = {Autonomous Planetary Landing via Deep Reinforcement Learning and Transfer Learning}, <br>
-   booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},<br>
-    month = {June},<br>
-     year = {2021}, <br>
-     pages = {2031-2038} }"
+# - title: "Detection Accuracy for Evaluating Compositional Explanations of Units"
+#   authors: Sayo M. Makinwa, Biagio La Rosa and Roberto Capobianco  
+#   year: 2022
+#   publisher: The 20th International Conference of the Italian Association for Artificial Intelligence (AIxIA 2021)
+#   link:
+#     url: https://link.springer.com/chapter/10.1007/978-3-031-08421-8_38
+#     display: Paper
+#   code: https://github.com/KRLGroup/detacc-compexp
+#   bibtex: "@InProceedings{Makinwa2022,<br>
+# author={Makinwa, Sayo M.
+# and La Rosa, Biagio
+# and Capobianco, Roberto},<br>
+# editor={Bandini, Stefania
+# and Gasparini, Francesca
+# and Mascardi, Viviana
+# and Palmonari, Matteo
+# and Vizzari, Giuseppe},<br>
+# title={Detection Accuracy for Evaluating Compositional Explanations of Units},<br>
+# booktitle={AIxIA 2021 -- Advances in Artificial Intelligence},<br>
+# year={2022},<br>
+# publisher={Springer International Publishing},<br>
+# address={Cham},<br>
+# pages={550--563},<br>
+# isbn={978-3-031-08421-8},<br>
+# }"
 
-- title: "Multiagent Epidemiologic Inference through Realtime Contact Tracing"
-  authors: Guni Sharon, James Ault, Peter Stone, Varun Kompella and Roberto Capobianco
-  year: 2021
-  publisher: Proceedings of the 20th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2021)
-  link:
-    url: http://www.ifaamas.org/Proceedings/aamas2021/pdfs/p1182.pdf
-    display:  Paper
-  bibtex: "@inproceedings{sharon2021covid,<br>
- title={Multiagent Epidemiologic Inference through Realtime Contact Tracing},<br>
- author={Sharon, Guni and Ault, James and Stone, Peter and Kompella, Varun and Capobianco, Roberto},<br>
- booktitle={Proceedings of the 20th International Conference on Autonomous Agents and MultiAgent Systems (AAMAS 2021)},<br>
- location = {London, UK},<br>
- month = {May},<br>
- year={2021},<br>
- organization={International Foundation for Autonomous Agents and Multiagent Systems}<br>
-}"
+# - title: "Learning a Symbolic Planning Domain through the Interaction with Continuous Environments"
+#   authors:  Elena Umili, Emanuele Antonioni, Francesco Riccio, Roberto Capobianco, Daniele Nardi and Giuseppe De Giacomo
+#   year: 2021
+#   publisher: Workshop on Bridging the Gap Between AI Planning and Reinforcement Learning ({PRL})
+#   link:
+#     url:   https://prl-theworkshop.github.io/prl2021/papers/PRL2021_paper_39.pdf
+#     display: Paper
+#   bibtex: "@inproceedings{umili2021,<br>
+#     author = {Elena Umili and
+#               Emanuele Antonioni and
+#               Francesco Riccio and<br>
+#               Roberto Capobianco and
+#               Daniele Nardi and
+#               Giuseppe {De Giacomo}},<br>
+#     title = {Learning a Symbolic Planning Domain through the Interaction with Continuous Environments},<br>
+#     booktitle = {Workshop on Bridging the Gap Between AI Planning and Reinforcement Learning ({PRL})},<br>
+#     year = {2021},<br>
+# }"
 
-- title: "LoOP: Iterative learning for optimistic planning on robots"
-  authors: Francesco Riccio, Roberto Capobianco and Daniele Nardi
-  year: 2020
-  publisher: Robotics and Autonomous Systems
-  link:
-    url: https://www.sciencedirect.com/science/article/pii/S0921889020305339
-    display:  Paper
-  bibtex: "@article{RICCIO2021103693,<br>
-title = {LoOP: Iterative learning for optimistic planning on robots},<br>
-journal = {Robotics and Autonomous Systems},<br>
-abstract = {Efficient robotic behaviors require robustness and adaptation to dynamic changes of the environment, whose characteristics rapidly vary during robot operation. To generate effective robot action policies, planning and learning techniques have shown the most promising results. However, if considered individually, they present different limitations. Planning techniques lack generalization among similar states and require experts to define behavioral routines at different levels of abstraction. Conversely, learning methods usually require a considerable number of training samples and iterations of the algorithm. To overcome these issues, and to efficiently generate robot behaviors, we introduce LoOP, an iterative learning algorithm for optimistic planning that combines state-of-the-art planning and learning techniques to generate action policies. The main contribution of LoOP is the combination of Monte-Carlo Search Planning and Q-learning, which enables focused exploration during policy refinement in different robotic applications. We demonstrate the robustness and flexibility of LoOP in various domains and multiple robotic platforms, by validating the proposed approach with an extensive experimental evaluation.}<br>
-volume = {136},<br>
-pages = {103693},<br>
-year = {2021},<br>
-issn = {0921-8890},<br>
-doi = {https://doi.org/10.1016/j.robot.2020.103693},<br>
-url = {http://www.sciencedirect.com/science/article/pii/S0921889020305339},<br>
-author = {Francesco Riccio and Roberto Capobianco and Daniele Nardi},<br>
-keywords = {Autonomous planning and learning, Monte-Carlo planning, Q-learning, Deep robot reinforcement learning},<br>
-}"
+# - title: "A Discussion about Explainable Inference on Sequential Data via Memory-Tracking"
+#   image: memoryexp.png
+#   authors: Biagio La Rosa, Roberto Capobianco and Daniele Nardi
+#   year: 2021
+#   publisher: The 20th International Conference of the Italian Association for Artificial Intelligence (AIxIA 2021)
+#   link:
+#     url: http://ceur-ws.org/Vol-3078/paper-24.pdf
+#     display:  Paper
+#   bibtex: "@inproceedings{LaRosa2021,<br>
+#   title     = {A Discussion about Explainable Inference on Sequential Data via Memory-Tracking},<br>
+#   author    = {La Rosa, Biagio and Capobianco, Roberto and Nardi, Daniele},
+#   booktitle = {AIxIA 2021 Discussion Papers},<br>
+#   publisher = {CEUR Workshop Proceedings},  <br>           
+#   volume     = {3078},<br>
+#   pages     = {33-44},<br>
+#   year      = {2021},<br>
+#   url       = {http://ceur-ws.org/Vol-3078/paper-24.pdf},
+# }"
 
-- title: "Reinforcement Learning for Optimization of COVID-19 Mitigation policies"
-  authors: Varun Kompella, Roberto Capobianco, Stacy Jong, Jonathan Browne, Spencer Fox, Lauren Meyers, Peter Wurman and Peter Stone
-  year: 2020
-  publisher: arXiv preprint
-  link:
-    url: https://arxiv.org/pdf/2010.10560.pdf
-    display:  Paper
-  code: https://github.com/SonyAI/PandemicSimulator
-  bibtex: "@misc{kompella2020reinforcement,<br>
-      title={Reinforcement Learning for Optimization of COVID-19 Mitigation policies}, <br>
-      author={Varun Kompella and Roberto Capobianco and Stacy Jong and Jonathan Browne and Spencer Fox and Lauren Meyers and Peter Wurman and Peter Stone},<br>
-      year={2020},<br>
-      eprint={2010.10560},<br>
-      archivePrefix={arXiv},<br>
-      primaryClass={cs.LG}
-}"
 
-- title: "GUESs: Generative modeling of Unknown Environments
-and Spatial Abstraction for Robots"
-  authors: Francesco Riccio, Roberto Capobianco and Daniele Nardi
-  year: 2020
-  publisher: Proceedings of the 19th International Conference on Autonomous Agents and MultiAgent Systems
-  link:
-    url: http://www.ifaamas.org/Proceedings/aamas2020/pdfs/p1978.pdf
-    display:  Paper
-  bibtex: "@inproceedings{10.5555/3398761.3399047,<br>
-author = {Riccio, Francesco and Capobianco, Roberto and Nardi, Daniele},<br>
-title = {GUESs: Generative Modeling of Unknown Environments and Spatial Abstraction for Robots},<br>
-year = {2020},<br>
-isbn = {9781450375184},<br>
-publisher = {International Foundation for Autonomous Agents and Multiagent Systems},<br>
-address = {Richland, SC},<br>
-abstract = {Representing unknown and missing knowledge about the environment is fundamental to leverage robot behavior and improve its performance in completing a task. However, reconstructing spatial knowledge beyond the sensory horizon of the robot is an extremely challenging task. Existing approaches assume that the environment static and features repetitive patterns (e.g. rectangular rooms) or that it can be all generalized with pre-trained models. Our goal is to remove such assumptions and to introduce a novel methodology that allows the robot to represent unknown spatial knowledge in dynamic and unstructured environments. To this end, we exploit generative learning to (1) learn a distribution of spatial landmarks observed during the robot mission and to (2) generate missing information in real-time. The proposed approach aims at supporting planning and decision-making processes needed for robot behaviors. In this paper, we describe architecture modeling the proposed approach and a first validation on a mobile platform.},
-booktitle = {Proceedings of the 19th International Conference on Autonomous Agents and MultiAgent Systems},<br>
-pages = {1978–1980},<br>
-numpages = {3},<br>
-keywords = {generative learning, knowledge representation, robot learning},<br>
-location = {Auckland, New Zealand},<br>
-series = {AAMAS '20}
-}"
+# - title: "Agent-Based Markov Modeling for Improved COVID-19 Mitigation Policies"
+#   authors: Roberto Capobianco, Varun Kompella, James Ault, Guni Sharon, Stacy Jong, Spencer Fox, Lauren Meyers, Peter R. Wurman and Peter Stone
+#   year: 2021
+#   publisher: Journal of Artificial Intelligence Research (JAIR)
+#   link:
+#     url: https://jair.org/index.php/jair/article/view/12632
+#     display:  Paper
+#   bibtex: "@inproceedings{capobianco2021covid,<br>
+#  title={Agent-Based {M}arkov Modeling for Improved {COVID}-19 Mitigation Policies},<br>
+#  author={Roberto Capobianco and Varun Kompella and James Ault and Guni Sharon and Stacy Jong and
+# Spencer Fox and Lauren Meyers and Peter R. Wurman and Peter Stone},<br>
+#  month = {August},<br>
+#  year={2021},<br>
+#  pages = {953--992},<br>
+#  Journal = {Journal of Artificial Intelligence Research (JAIR)},<br>
+#  Volume = {71},<br>
+#  Publisher = {Association for the Advancement of Artificial Intelligence}<br>
+# }"
 
-- title: "Explainable Inference on Sequential Data via Memory-Tracking"
-  authors: Biagio La Rosa, Roberto Capobianco and Daniele Nardi
-  year: 2020
-  publisher: Proceedings of the Twenty-Ninth International Joint Conference on Artificial Intelligence (IJCAI-20)
-  link:
-    url: https://www.ijcai.org/Proceedings/2020/0278.pdf
-    display:  Paper
-  code: https://github.com/KRLGroup/explainable-inference-on-sequential-data-via-memory-tracking
-  news2:
-  blog: "explainable_inference"
-  bibtex: "@inproceedings{LaRosa20,<br>
-  title     = {Explainable Inference on Sequential Data via Memory-Tracking},<br>
-  author    = {La Rosa, Biagio and Capobianco, Roberto and Nardi, Daniele},<br>
-  booktitle = {Proceedings of the Twenty-Ninth International Joint Conference on
-               Artificial Intelligence, {IJCAI-20}},<br>
-  publisher = {International Joint Conferences on Artificial Intelligence Organization},  <br>           
-  pages     = {2006--2013},<br>
-  year      = {2020},<br>
-  month     = {7},<br>
-  doi       = {10.24963/ijcai.2020/278},<br>
-  url       = {https://doi.org/10.24963/ijcai.2020/278},<br>
-}"
+# - title: "Learning Transferable Policies for Autonomous Planetary Landing via Deep Reinforcement Learning"
+#   authors: Giulia Ciabatti, Roberto Capobianco, Shreyansh Daftry
+#   year: 2021
+#   publisher: Ascend, AIAA
+#   link:
+#     url: https://arc.aiaa.org/doi/abs/10.2514/6.2021-4006
+#     display:  Paper
+#   bibtex: "@InProceedings{Ciabatti2021,
+#   author    = {Giulia Ciabatti and Shreyansh Daftry and Roberto Capobianco},
+#   booktitle = {{ASCEND} 2021},
+#   title     = {Learning Transferable Policies for Autonomous Planetary Landing via Deep Reinforcement Learning},
+#   year      = {2021},
+#   month     = {nov},
+#   publisher = {American Institute of Aeronautics and Astronautics},
+#   doi       = {10.2514/6.2021-4006},
+# }"
+
+# - title: "Autonomous Planetary Landing via Deep Reinforcement Learning and Transfer Learning"
+#   authors: Giulia Ciabatti, Shreyansh Daftry and Roberto Capobianco
+#   year: 2021
+#   publisher: AI4Space Workshop (CVPR 2021)
+#   link:
+#     url: https://openaccess.thecvf.com/content/CVPR2021W/AI4Space/html/Ciabatti_Autonomous_Planetary_Landing_via_Deep_Reinforcement_Learning_and_Transfer_Learning_CVPRW_2021_paper.html
+#     display:  Paper
+#   bibtex: "@InProceedings{Ciabatti_2021_CVPR,<br>
+#   author = {Ciabatti, Giulia and Daftry, Shreyansh and Capobianco, Roberto},<br>
+#    title = {Autonomous Planetary Landing via Deep Reinforcement Learning and Transfer Learning}, <br>
+#    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},<br>
+#     month = {June},<br>
+#      year = {2021}, <br>
+#      pages = {2031-2038} }"
+
+# - title: "Multiagent Epidemiologic Inference through Realtime Contact Tracing"
+#   authors: Guni Sharon, James Ault, Peter Stone, Varun Kompella and Roberto Capobianco
+#   year: 2021
+#   publisher: Proceedings of the 20th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2021)
+#   link:
+#     url: http://www.ifaamas.org/Proceedings/aamas2021/pdfs/p1182.pdf
+#     display:  Paper
+#   bibtex: "@inproceedings{sharon2021covid,<br>
+#  title={Multiagent Epidemiologic Inference through Realtime Contact Tracing},<br>
+#  author={Sharon, Guni and Ault, James and Stone, Peter and Kompella, Varun and Capobianco, Roberto},<br>
+#  booktitle={Proceedings of the 20th International Conference on Autonomous Agents and MultiAgent Systems (AAMAS 2021)},<br>
+#  location = {London, UK},<br>
+#  month = {May},<br>
+#  year={2021},<br>
+#  organization={International Foundation for Autonomous Agents and Multiagent Systems}<br>
+# }"
+
+# - title: "LoOP: Iterative learning for optimistic planning on robots"
+#   authors: Francesco Riccio, Roberto Capobianco and Daniele Nardi
+#   year: 2020
+#   publisher: Robotics and Autonomous Systems
+#   link:
+#     url: https://www.sciencedirect.com/science/article/pii/S0921889020305339
+#     display:  Paper
+#   bibtex: "@article{RICCIO2021103693,<br>
+# title = {LoOP: Iterative learning for optimistic planning on robots},<br>
+# journal = {Robotics and Autonomous Systems},<br>
+# abstract = {Efficient robotic behaviors require robustness and adaptation to dynamic changes of the environment, whose characteristics rapidly vary during robot operation. To generate effective robot action policies, planning and learning techniques have shown the most promising results. However, if considered individually, they present different limitations. Planning techniques lack generalization among similar states and require experts to define behavioral routines at different levels of abstraction. Conversely, learning methods usually require a considerable number of training samples and iterations of the algorithm. To overcome these issues, and to efficiently generate robot behaviors, we introduce LoOP, an iterative learning algorithm for optimistic planning that combines state-of-the-art planning and learning techniques to generate action policies. The main contribution of LoOP is the combination of Monte-Carlo Search Planning and Q-learning, which enables focused exploration during policy refinement in different robotic applications. We demonstrate the robustness and flexibility of LoOP in various domains and multiple robotic platforms, by validating the proposed approach with an extensive experimental evaluation.}<br>
+# volume = {136},<br>
+# pages = {103693},<br>
+# year = {2021},<br>
+# issn = {0921-8890},<br>
+# doi = {https://doi.org/10.1016/j.robot.2020.103693},<br>
+# url = {http://www.sciencedirect.com/science/article/pii/S0921889020305339},<br>
+# author = {Francesco Riccio and Roberto Capobianco and Daniele Nardi},<br>
+# keywords = {Autonomous planning and learning, Monte-Carlo planning, Q-learning, Deep robot reinforcement learning},<br>
+# }"
+
+# - title: "Reinforcement Learning for Optimization of COVID-19 Mitigation policies"
+#   authors: Varun Kompella, Roberto Capobianco, Stacy Jong, Jonathan Browne, Spencer Fox, Lauren Meyers, Peter Wurman and Peter Stone
+#   year: 2020
+#   publisher: arXiv preprint
+#   link:
+#     url: https://arxiv.org/pdf/2010.10560.pdf
+#     display:  Paper
+#   code: https://github.com/SonyAI/PandemicSimulator
+#   bibtex: "@misc{kompella2020reinforcement,<br>
+#       title={Reinforcement Learning for Optimization of COVID-19 Mitigation policies}, <br>
+#       author={Varun Kompella and Roberto Capobianco and Stacy Jong and Jonathan Browne and Spencer Fox and Lauren Meyers and Peter Wurman and Peter Stone},<br>
+#       year={2020},<br>
+#       eprint={2010.10560},<br>
+#       archivePrefix={arXiv},<br>
+#       primaryClass={cs.LG}
+# }"
+
+# - title: "GUESs: Generative modeling of Unknown Environments
+# and Spatial Abstraction for Robots"
+#   authors: Francesco Riccio, Roberto Capobianco and Daniele Nardi
+#   year: 2020
+#   publisher: Proceedings of the 19th International Conference on Autonomous Agents and MultiAgent Systems
+#   link:
+#     url: http://www.ifaamas.org/Proceedings/aamas2020/pdfs/p1978.pdf
+#     display:  Paper
+#   bibtex: "@inproceedings{10.5555/3398761.3399047,<br>
+# author = {Riccio, Francesco and Capobianco, Roberto and Nardi, Daniele},<br>
+# title = {GUESs: Generative Modeling of Unknown Environments and Spatial Abstraction for Robots},<br>
+# year = {2020},<br>
+# isbn = {9781450375184},<br>
+# publisher = {International Foundation for Autonomous Agents and Multiagent Systems},<br>
+# address = {Richland, SC},<br>
+# abstract = {Representing unknown and missing knowledge about the environment is fundamental to leverage robot behavior and improve its performance in completing a task. However, reconstructing spatial knowledge beyond the sensory horizon of the robot is an extremely challenging task. Existing approaches assume that the environment static and features repetitive patterns (e.g. rectangular rooms) or that it can be all generalized with pre-trained models. Our goal is to remove such assumptions and to introduce a novel methodology that allows the robot to represent unknown spatial knowledge in dynamic and unstructured environments. To this end, we exploit generative learning to (1) learn a distribution of spatial landmarks observed during the robot mission and to (2) generate missing information in real-time. The proposed approach aims at supporting planning and decision-making processes needed for robot behaviors. In this paper, we describe architecture modeling the proposed approach and a first validation on a mobile platform.},
+# booktitle = {Proceedings of the 19th International Conference on Autonomous Agents and MultiAgent Systems},<br>
+# pages = {1978–1980},<br>
+# numpages = {3},<br>
+# keywords = {generative learning, knowledge representation, robot learning},<br>
+# location = {Auckland, New Zealand},<br>
+# series = {AAMAS '20}
+# }"
+
+# - title: "Explainable Inference on Sequential Data via Memory-Tracking"
+#   authors: Biagio La Rosa, Roberto Capobianco and Daniele Nardi
+#   year: 2020
+#   publisher: Proceedings of the Twenty-Ninth International Joint Conference on Artificial Intelligence (IJCAI-20)
+#   link:
+#     url: https://www.ijcai.org/Proceedings/2020/0278.pdf
+#     display:  Paper
+#   code: https://github.com/KRLGroup/explainable-inference-on-sequential-data-via-memory-tracking
+#   news2:
+#   blog: "explainable_inference"
+#   bibtex: "@inproceedings{LaRosa20,<br>
+#   title     = {Explainable Inference on Sequential Data via Memory-Tracking},<br>
+#   author    = {La Rosa, Biagio and Capobianco, Roberto and Nardi, Daniele},<br>
+#   booktitle = {Proceedings of the Twenty-Ninth International Joint Conference on
+#                Artificial Intelligence, {IJCAI-20}},<br>
+#   publisher = {International Joint Conferences on Artificial Intelligence Organization},  <br>           
+#   pages     = {2006--2013},<br>
+#   year      = {2020},<br>
+#   month     = {7},<br>
+#   doi       = {10.24963/ijcai.2020/278},<br>
+#   url       = {https://doi.org/10.24963/ijcai.2020/278},<br>
+# }"
 

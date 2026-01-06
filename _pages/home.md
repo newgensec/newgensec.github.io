@@ -9,6 +9,7 @@ permalink: /
 
  GrunnSec is a like minded, dynamic group of people conducting cutting-edge research on security and privacy at the University of Groningen. The group is led by prof. <a href="https://www.cs.rug.nl/~turkmen/">Fatih Turkmen</a> and includes excellent PhD and master/bachelor students pushing the envelope on topics related to:
  <ul>
+  <li>privacy-enhancing technologies</li>
   <li>security attacks against AI systems</li>
   <li>privacy-preserving, decentralized machine learning</li>
   <li>fuzz testing of software and systems</li>

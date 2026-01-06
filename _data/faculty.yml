@@ -1,7 +1,7 @@
-- name: Roberto Capobianco
-  photo: capobianco.jpg
+- name: Fatih Turkmen
+  photo: turkmen.jpg
   info:
   email: 
-  bio:  I am a Research Scientist at Sony AI and Coordinator of the Knowledge, Reasoning and Learning Research Group inside the Ro.Co.Co Lab at the Department of Computer, Control, and Management Engineering “Antonio Ruberti” (DIAG), Sapienza University of Rome. I am also a freelancer, consulting for companies and start-ups on artificial intelligence, machine learning and robotics. My research is focused on reinforcement learning, AI explainability, robot control and knowledge representation.
-  webpage: http://robertocapobianco.com/
-  linkedin: rcapobianco
+  bio:  Fatih Turkmen is an Associate Professor at the University of Groningen, where he has been affiliated since 2019. His research focuses on the security and privacy of AI systems, privacy-enhancing technologies, as well as formal and empirical approaches to security analytics and access control.  for authentication and authorisation, particularly in contexts involving access to sensitive data (e.g., genomic data). He serves as an editor for the International Journal of Information Security (IJIS), was General Chair of the 26th Information Security Conference (ISC), and regularly participates as a program committee member for leading security and privacy conferences such as ACM CCS, PETs, and SACMAT.
+  webpage: https://www.cs.rug.nl/~turkmen/
+  linkedin: fatihturkmen
